@@ -1,0 +1,816 @@
+Battery History (0% used, 2100 used of 256KB, 69 strings using 4228):
+                    0 (9) RESET:TIME: 2015-10-19-13-15-27
+                    0 (2) 043 status=charging health=good plug=usb temp=313 volt=3980 +running +wake_lock +gps +mobile_radio +screen +plugged data_conn=lte phone_signal_strength=great brightness=medium +wifi_running proc=u0a80:"com.skt.skaf.OA00199800"
+                    0 (2) 043 proc=u0a23:"android.process.acore"
+                    0 (2) 043 proc=u0a166:"com.skt.tservice"
+                    0 (2) 043 proc=u0a69:"com.google.android.googlequicksearchbox:interactor"
+                    0 (2) 043 proc=1000:"WebViewLoader-armeabi-v7a"
+                    0 (2) 043 proc=u0a61:"com.skt.prod.dialer"
+                    0 (2) 043 proc=1000:"com.sec.ims.android"
+                    0 (2) 043 proc=u0a66:"com.skt.skaf.Z00000TAPI"
+                    0 (2) 043 proc=u0a1:"com.skt.skaf.A000Z00040"
+                    0 (2) 043 proc=1000:"com.sec.android.app.popupuireceiver"
+                    0 (2) 043 proc=u0a14:"com.google.process.gapps"
+                    0 (2) 043 proc=u0a3:"com.sec.android.cloudagent"
+                    0 (2) 043 proc=1000:"com.android.settings"
+                    0 (2) 043 proc=u0a99:"com.android.chrome"
+                    0 (2) 043 proc=1001:"com.android.incallui"
+                    0 (2) 043 proc=1000:"com.sec.android.voltesettings"
+                    0 (2) 043 proc=1000:"com.samsung.android.app.mirrorlink"
+                    0 (2) 043 proc=u0a155:"com.samsung.android.app.powersharing"
+                    0 (2) 043 proc=u0a209:"com.sec.android.daemonapp"
+                    0 (2) 043 proc=u0a39:"com.sec.spp.push"
+                    0 (2) 043 proc=u0a223:"ru.gavrikov.mocklocations"
+                    0 (2) 043 proc=1002:"com.android.bluetooth"
+                    0 (2) 043 proc=1000:"com.skt.skaf.OA00412131"
+                    0 (2) 043 proc=u0a60:"com.android.systemui.imagewallpaper"
+                    0 (2) 043 proc=u0a14:"com.google.android.gms"
+                    0 (2) 043 proc=1000:"com.sec.knox.bridge"
+                    0 (2) 043 proc=u0a204:"com.ahnlab.v3mobilestd"
+                    0 (2) 043 proc=u0a14:"com.google.android.gms.persistent"
+                    0 (2) 043 proc=1000:"com.samsung.android.MtpApplication"
+                    0 (2) 043 proc=u0a23:"com.android.contacts"
+                    0 (2) 043 proc=1000:"com.sec.android.inputmethod"
+                    0 (2) 043 proc=u0a4:"com.samsung.android.providers.context"
+                    0 (2) 043 proc=u0a225:"com.skt.skaf.l001mtm091"
+                    0 (2) 043 proc=1001:"com.sec.phone"
+                    0 (2) 043 proc=u0a62:"com.skt.prod.phone"
+                    0 (2) 043 proc=u0a93:"com.skt.apra"
+                    0 (2) 043 proc=1001:"com.android.server.telecom"
+                    0 (2) 043 proc=u0a6:"com.android.defcontainer"
+                    0 (2) 043 proc=u0a161:"com.visionobjects.resourcemanager"
+                    0 (2) 043 proc=u0a56:"com.sec.android.app.videoplayer"
+                    0 (2) 043 proc=u0a48:"android.process.media"
+                    0 (2) 043 proc=u0a9:"com.sec.android.app.launcher"
+                    0 (2) 043 proc=u0a60:"com.android.systemui"
+                    0 (2) 043 proc=u0a23:"com.sec.android.provider.logsprovider"
+                    0 (2) 043 proc=1001:"com.android.phone"
+                    0 (2) 043 proc=1027:"com.android.nfc"
+                    0 (2) 043 proc=u0a153:"com.google.android.apps.plus"
+                    0 (2) 043 proc=u0a31:"com.android.vending"
+                    0 (2) 043 proc=u0a69:"com.google.android.googlequicksearchbox:search"
+                    0 (2) 043 proc=u0a131:"com.skt.iwlan:remote"
+                    0 (2) 043 top=u0a225:"com.skt.skaf.l001mtm091"
+                    0 (2) 043 wake_lock_in=-1:"screen"
+                    0 (2) 043 user=0:"0"
+                    0 (2) 043 userfg=0:"0"
+               +110ms (2) 043 +proc=u0a80:"com.skt.skaf.OA00199800"
+               +110ms (2) 043 +proc=u0a23:"android.process.acore"
+               +110ms (2) 043 +proc=u0a166:"com.skt.tservice"
+               +110ms (2) 043 +proc=u0a69:"com.google.android.googlequicksearchbox:interactor"
+               +110ms (2) 043 +proc=1000:"WebViewLoader-armeabi-v7a"
+               +110ms (2) 043 +proc=u0a61:"com.skt.prod.dialer"
+               +110ms (2) 043 +proc=1000:"com.sec.ims.android"
+               +110ms (2) 043 +proc=u0a66:"com.skt.skaf.Z00000TAPI"
+               +110ms (2) 043 +proc=u0a1:"com.skt.skaf.A000Z00040"
+               +110ms (2) 043 +proc=1000:"com.sec.android.app.popupuireceiver"
+               +110ms (2) 043 +proc=u0a14:"com.google.process.gapps"
+               +110ms (2) 043 +proc=u0a3:"com.sec.android.cloudagent"
+               +110ms (2) 043 +proc=1000:"com.android.settings"
+               +110ms (2) 043 +proc=u0a99:"com.android.chrome"
+               +110ms (2) 043 +proc=1001:"com.android.incallui"
+               +110ms (2) 043 +proc=1000:"com.sec.android.voltesettings"
+               +110ms (2) 043 +proc=1000:"com.samsung.android.app.mirrorlink"
+               +110ms (2) 043 +proc=u0a155:"com.samsung.android.app.powersharing"
+               +110ms (2) 043 +proc=u0a209:"com.sec.android.daemonapp"
+               +110ms (2) 043 +proc=u0a39:"com.sec.spp.push"
+               +110ms (2) 043 +proc=u0a223:"ru.gavrikov.mocklocations"
+               +110ms (2) 043 +proc=1002:"com.android.bluetooth"
+               +110ms (2) 043 +proc=1000:"com.skt.skaf.OA00412131"
+               +110ms (2) 043 +proc=u0a60:"com.android.systemui.imagewallpaper"
+               +110ms (2) 043 +proc=u0a14:"com.google.android.gms"
+               +110ms (2) 043 +proc=1000:"com.sec.knox.bridge"
+               +110ms (2) 043 +proc=u0a204:"com.ahnlab.v3mobilestd"
+               +110ms (2) 043 +proc=u0a14:"com.google.android.gms.persistent"
+               +110ms (2) 043 +proc=1000:"com.samsung.android.MtpApplication"
+               +110ms (2) 043 +proc=u0a23:"com.android.contacts"
+               +110ms (2) 043 +proc=1000:"com.sec.android.inputmethod"
+               +110ms (2) 043 +proc=u0a4:"com.samsung.android.providers.context"
+               +110ms (2) 043 +proc=u0a225:"com.skt.skaf.l001mtm091"
+               +110ms (2) 043 +proc=1001:"com.sec.phone"
+               +110ms (2) 043 +proc=u0a62:"com.skt.prod.phone"
+               +110ms (2) 043 +proc=u0a93:"com.skt.apra"
+               +110ms (2) 043 +proc=1001:"com.android.server.telecom"
+               +110ms (2) 043 +proc=u0a6:"com.android.defcontainer"
+               +110ms (2) 043 +proc=u0a161:"com.visionobjects.resourcemanager"
+               +110ms (2) 043 +proc=u0a56:"com.sec.android.app.videoplayer"
+               +110ms (2) 043 +proc=u0a48:"android.process.media"
+               +110ms (2) 043 +proc=u0a9:"com.sec.android.app.launcher"
+               +110ms (2) 043 +proc=u0a60:"com.android.systemui"
+               +110ms (2) 043 +proc=u0a23:"com.sec.android.provider.logsprovider"
+               +110ms (2) 043 +proc=1001:"com.android.phone"
+               +110ms (2) 043 +proc=1027:"com.android.nfc"
+               +110ms (2) 043 +proc=u0a153:"com.google.android.apps.plus"
+               +110ms (2) 043 +proc=u0a31:"com.android.vending"
+               +110ms (2) 043 +proc=u0a69:"com.google.android.googlequicksearchbox:search"
+               +110ms (2) 043 +proc=u0a131:"com.skt.iwlan:remote"
+            +32s695ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+            +32s812ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+            +33s863ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+            +33s882ms (2) 043 +wake_lock_in=1001:"*alarm*"
+            +33s882ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+            +33s887ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+            +33s887ms (2) 043 -wake_lock_in=1001:"*alarm*"
+            +33s904ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +1m32s693ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +1m32s819ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +1m33s965ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +1m34s000ms (2) 043 +wake_lock_in=1001:"*alarm*"
+          +1m34s000ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +1m34s005ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +1m34s005ms (2) 043 -wake_lock_in=1001:"*alarm*"
+          +1m34s022ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +2m32s695ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +2m32s799ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +2m34s085ms (2) 043 +wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+          +2m34s098ms (2) 043 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+          +2m34s116ms (2) 043 -wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+          +2m34s116ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +2m34s139ms (2) 043 +wake_lock_in=u0a204:"*alarm*"
+          +2m34s139ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +2m34s160ms (2) 043 +wake_lock_in=1001:"*alarm*"
+          +2m34s160ms (2) 043 -wake_lock_in=u0a204:"*alarm*"
+          +2m34s166ms (2) 043 -wake_lock_in=1001:"*alarm*"
+          +2m34s174ms (2) 043 +wake_lock_in=1001:"RILJ0"
+          +2m34s176ms (2) 043 -wake_lock_in=1001:"RILJ0"
+          +2m34s177ms (2) 043 +wake_lock_in=1001:"RILJ0"
+          +2m34s202ms (2) 043 -wake_lock_in=1001:"RILJ0"
+          +2m34s219ms (2) 043 -wake_lock_in=u0a14:"NlpWakeLock"
+          +2m34s221ms (2) 043 -wifi_full_lock +wake_lock_in=u0a14:"GCoreFlp"
+          +2m34s224ms (2) 043 -wake_lock_in=u0a14:"GCoreFlp"
+          +2m44s214ms (2) 043 +wake_lock_in=1000:"TimaService"
+          +2m46s866ms (2) 043 -wake_lock_in=1000:"TimaService"
+          +3m32s692ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +3m32s786ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +3m34s194ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +3m34s215ms (2) 043 +wake_lock_in=1001:"*alarm*"
+          +3m34s215ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +3m34s223ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +3m34s223ms (2) 043 -wake_lock_in=1001:"*alarm*"
+          +3m34s238ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +4m32s693ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +4m32s719ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +4m32s719ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +4m32s727ms (2) 043 +wake_lock_in=1000:"*alarm*"
+          +4m32s727ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +4m32s798ms (2) 043 -wake_lock_in=1000:"*alarm*"
+          +4m57s125ms (2) 043 +wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+          +4m57s133ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +4m57s133ms (2) 043 -wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+          +4m57s151ms (2) 043 +wake_lock_in=u0a204:"*alarm*"
+          +4m57s151ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +4m57s175ms (2) 043 -wake_lock_in=u0a204:"*alarm*"
+          +5m32s696ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +5m32s775ms (2) 043 -proc=u0a3:"com.sec.android.cloudagent"
+          +5m32s779ms (2) 043 -proc=1000:"com.samsung.android.app.mirrorlink"
+          +5m32s784ms (2) 043 -proc=u0a56:"com.sec.android.app.videoplayer"
+          +5m32s788ms (2) 043 -proc=1000:"com.android.settings"
+          +5m32s811ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +5m57s220ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +5m57s238ms (2) 043 +wake_lock_in=1001:"*alarm*"
+          +5m57s238ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +5m57s243ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +5m57s243ms (2) 043 -wake_lock_in=1001:"*alarm*"
+          +5m57s258ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +6m32s694ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +6m32s789ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +7m32s693ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +7m32s794ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +7m34s113ms (2) 043 +wake_lock_in=u0a14:"*walarm*:com.google.android.gms.auth.authzen.CHECK_REGISTRATION"
+          +7m34s165ms (2) 043 +wake_lock_in=u0a14:"Event Log Handoff"
+          +7m34s177ms (2) 043 +wake_lock_in=u0a14:"Event Log Service"
+          +7m34s178ms (2) 043 -wake_lock_in=u0a14:"Event Log Handoff"
+          +7m34s185ms (2) 043 -wake_lock_in=u0a14:"*walarm*:com.google.android.gms.auth.authzen.CHECK_REGISTRATION"
+          +7m34s185ms (2) 043 +wake_lock_in=1000:"*alarm*"
+          +7m34s190ms (2) 043 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+          +7m34s197ms (2) 043 -wake_lock_in=1000:"*alarm*"
+          +7m34s197ms (2) 043 +wake_lock_in=u0a166:"*alarm*"
+          +7m34s209ms (2) 043 +wake_lock_in=1000:"*alarm*"
+          +7m34s209ms (2) 043 -wake_lock_in=u0a166:"*alarm*"
+          +7m34s225ms (2) 043 +wake_lock_in=u0a39:"*alarm*"
+          +7m34s225ms (2) 043 -wake_lock_in=1000:"*alarm*"
+          +7m34s263ms (2) 043 +wake_lock_in=1001:"RILJ0"
+          +7m34s264ms (2) 043 +wake_lock_in=u0a204:"*alarm*"
+          +7m34s264ms (2) 043 -wake_lock_in=u0a39:"*alarm*"
+          +7m34s266ms (2) 043 -wake_lock_in=1001:"RILJ0"
+          +7m34s274ms (2) 043 +wake_lock_in=1001:"RILJ0"
+          +7m34s275ms (2) 043 +wake_lock_in=1001:"*alarm*"
+          +7m34s275ms (2) 043 -wake_lock_in=u0a204:"*alarm*"
+          +7m34s278ms (2) 043 -wake_lock_in=1001:"*alarm*"
+          +7m34s300ms (2) 043 -wake_lock_in=1001:"RILJ0"
+          +7m34s327ms (2) 043 -wake_lock_in=u0a14:"Event Log Service"
+          +7m34s328ms (2) 043 -wake_lock_in=u0a14:"NlpWakeLock"
+          +7m34s330ms (2) 043 +wake_lock_in=u0a14:"GCoreFlp"
+          +7m34s333ms (2) 043 -wifi_full_lock -wake_lock_in=u0a14:"GCoreFlp"
+          +7m44s214ms (2) 043 +wake_lock_in=1000:"TimaService"
+          +7m49s310ms (2) 043 -wake_lock_in=1000:"TimaService"
+          +8m32s693ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +8m32s821ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +8m34s290ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +8m34s315ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +8m34s315ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +8m34s328ms (2) 043 +wake_lock_in=1001:"*alarm*"
+          +8m34s328ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +8m34s332ms (2) 043 -wake_lock_in=1001:"*alarm*"
+          +9m32s695ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +9m32s787ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +9m34s394ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +9m34s412ms (2) 043 +wake_lock_in=1001:"*alarm*"
+          +9m34s412ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +9m34s419ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +9m34s419ms (2) 043 -wake_lock_in=1001:"*alarm*"
+          +9m34s441ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+         +10m32s692ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +10m32s793ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +10m34s494ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +10m34s518ms (2) 043 +wake_lock_in=1001:"*alarm*"
+         +10m34s518ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +10m34s522ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+         +10m34s522ms (2) 043 -wake_lock_in=1001:"*alarm*"
+         +10m34s535ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+         +11m28s790ms (2) 043 volt=3952
+         +11m32s695ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +11m32s795ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +11m34s584ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +11m34s611ms (2) 043 +wake_lock_in=1001:"*alarm*"
+         +11m34s611ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +11m34s618ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+         +11m34s618ms (2) 043 -wake_lock_in=1001:"*alarm*"
+         +11m34s635ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+         +11m48s987ms (2) 043 volt=3977
+         +12m32s692ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +12m32s808ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +12m34s685ms (2) 043 +wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +12m34s700ms (2) 043 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+         +12m34s708ms (2) 043 -wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +12m34s708ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+         +12m34s732ms (2) 043 +wake_lock_in=u0a204:"*alarm*"
+         +12m34s732ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+         +12m34s754ms (2) 043 +wake_lock_in=1001:"*alarm*"
+         +12m34s754ms (2) 043 -wake_lock_in=u0a204:"*alarm*"
+         +12m34s758ms (2) 043 -wake_lock_in=1001:"*alarm*"
+         +12m34s777ms (2) 043 +wake_lock_in=1001:"RILJ0"
+         +12m34s779ms (2) 043 -wake_lock_in=1001:"RILJ0"
+         +12m34s781ms (2) 043 +wake_lock_in=1001:"RILJ0"
+         +12m34s805ms (2) 043 -wake_lock_in=1001:"RILJ0"
+         +12m34s820ms (2) 043 -wake_lock_in=u0a14:"NlpWakeLock"
+         +12m34s821ms (2) 043 -wifi_full_lock +wake_lock_in=u0a14:"GCoreFlp"
+         +12m34s825ms (2) 043 -wake_lock_in=u0a14:"GCoreFlp"
+         +12m44s215ms (2) 043 +wake_lock_in=1000:"TimaService"
+         +12m46s843ms (2) 043 -wake_lock_in=1000:"TimaService"
+
+Per-PID Stats:
+  PID 3583 wake time: +11s818ms
+  PID 3583 wake time: +66ms
+  PID 4036 wake time: +82ms
+  PID 3583 wake time: +274ms
+  PID 4382 wake time: +162ms
+  PID 4708 wake time: +396ms
+  PID 3583 wake time: +39ms
+  PID 3583 wake time: +12ms
+  PID 3583 wake time: +291ms
+
+Statistics since last charge:
+  System starts: 0, currently on battery: false
+  Time on battery: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Total run time: 13m 12s 349ms realtime, 13m 12s 349ms uptime
+  Start clock time: 2015-10-19-13-15-27
+  Screen on: 0ms (--%) 0x, Interactive: 0ms (--%)
+  Screen brightnesses: (no activity)
+  Mobile total received: 0B, sent: 0B (packets received 0, sent 0)
+  Phone signal levels: (no activity)
+  Signal scanning time: 0ms
+  Radio types: (no activity)
+  Mobile radio active time: 0ms (--%) 0x
+  Wi-Fi total received: 0B, sent: 0B (packets received 0, sent 0)
+  Wifi on: 0ms (--%), Wifi running: 0ms (--%)
+  Wifi states: (no activity)
+  Wifi supplicant states: (no activity)
+  Wifi signal levels: (no activity)
+  Bluetooth on: 0ms (--%)
+  Bluetooth states: (no activity)
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+
+  1000:
+    Wake lock *alarm* realtime
+    Wake lock TimaService realtime
+  1001:
+    Wake lock RILJ0 realtime
+    Wake lock *alarm* realtime
+  1002:
+    (nothing executed)
+  1021:
+    Sensor 0: (not used)
+    Sensor 1: (not used)
+    Sensor 4: (not used)
+    Sensor 12: (not used)
+    Sensor 1937338482: (not used)
+  1027:
+    (nothing executed)
+  u0a1:
+    (nothing executed)
+  u0a3:
+    (nothing executed)
+  u0a4:
+    (nothing executed)
+  u0a5:
+    (nothing executed)
+  u0a6:
+    (nothing executed)
+  u0a8:
+    (nothing executed)
+  u0a9:
+    (nothing executed)
+  u0a10:
+    (nothing executed)
+  u0a12:
+    (nothing executed)
+  u0a13:
+    (nothing executed)
+  u0a14:
+    Wake lock Event Log Handoff realtime
+    Wake lock Event Log Service realtime
+    Wake lock *alarm* realtime
+    Wake lock NlpWakeLock realtime
+    Wake lock GCoreFlp realtime
+    Apk com.google.android.gms:
+      (nothing executed)
+  u0a16:
+    (nothing executed)
+  u0a17:
+    (nothing executed)
+  u0a19:
+    (nothing executed)
+  u0a21:
+    (nothing executed)
+  u0a22:
+    (nothing executed)
+  u0a23:
+    (nothing executed)
+  u0a25:
+    (nothing executed)
+  u0a28:
+    (nothing executed)
+  u0a31:
+    (nothing executed)
+  u0a35:
+    (nothing executed)
+  u0a36:
+    (nothing executed)
+  u0a37:
+    (nothing executed)
+  u0a38:
+    (nothing executed)
+  u0a39:
+    Wake lock *alarm* realtime
+  u0a42:
+    (nothing executed)
+  u0a44:
+    (nothing executed)
+  u0a45:
+    (nothing executed)
+  u0a46:
+    (nothing executed)
+  u0a47:
+    (nothing executed)
+  u0a48:
+    (nothing executed)
+  u0a50:
+    (nothing executed)
+  u0a52:
+    (nothing executed)
+  u0a53:
+    (nothing executed)
+  u0a54:
+    (nothing executed)
+  u0a56:
+    (nothing executed)
+  u0a59:
+    (nothing executed)
+  u0a60:
+    (nothing executed)
+  u0a61:
+    (nothing executed)
+  u0a62:
+    (nothing executed)
+  u0a66:
+    (nothing executed)
+  u0a68:
+    (nothing executed)
+  u0a69:
+    (nothing executed)
+  u0a73:
+    (nothing executed)
+  u0a75:
+    (nothing executed)
+  u0a80:
+    (nothing executed)
+  u0a81:
+    (nothing executed)
+  u0a83:
+    (nothing executed)
+  u0a86:
+    (nothing executed)
+  u0a87:
+    (nothing executed)
+  u0a90:
+    (nothing executed)
+  u0a93:
+    (nothing executed)
+  u0a99:
+    (nothing executed)
+  u0a103:
+    (nothing executed)
+  u0a104:
+    (nothing executed)
+  u0a107:
+    (nothing executed)
+  u0a110:
+    (nothing executed)
+  u0a111:
+    (nothing executed)
+  u0a112:
+    (nothing executed)
+  u0a113:
+    (nothing executed)
+  u0a114:
+    (nothing executed)
+  u0a115:
+    (nothing executed)
+  u0a117:
+    (nothing executed)
+  u0a118:
+    (nothing executed)
+  u0a120:
+    (nothing executed)
+  u0a123:
+    (nothing executed)
+  u0a124:
+    (nothing executed)
+  u0a125:
+    (nothing executed)
+  u0a126:
+    (nothing executed)
+  u0a129:
+    (nothing executed)
+  u0a130:
+    (nothing executed)
+  u0a131:
+    (nothing executed)
+  u0a133:
+    (nothing executed)
+  u0a134:
+    (nothing executed)
+  u0a136:
+    (nothing executed)
+  u0a137:
+    (nothing executed)
+  u0a139:
+    (nothing executed)
+  u0a143:
+    (nothing executed)
+  u0a148:
+    (nothing executed)
+  u0a153:
+    (nothing executed)
+  u0a155:
+    (nothing executed)
+  u0a156:
+    (nothing executed)
+  u0a161:
+    (nothing executed)
+  u0a163:
+    (nothing executed)
+  u0a166:
+    Wake lock *alarm* realtime
+  u0a169:
+    (nothing executed)
+  u0a170:
+    (nothing executed)
+  u0a172:
+    (nothing executed)
+  u0a173:
+    (nothing executed)
+  u0a174:
+    (nothing executed)
+  u0a177:
+    (nothing executed)
+  u0a180:
+    (nothing executed)
+  u0a182:
+    (nothing executed)
+  u0a185:
+    (nothing executed)
+  u0a186:
+    (nothing executed)
+  u0a187:
+    (nothing executed)
+  u0a189:
+    (nothing executed)
+  u0a191:
+    (nothing executed)
+  u0a194:
+    (nothing executed)
+  u0a195:
+    (nothing executed)
+  u0a198:
+    (nothing executed)
+  u0a199:
+    (nothing executed)
+  u0a201:
+    (nothing executed)
+  u0a204:
+    Wake lock *alarm* realtime
+  u0a209:
+    (nothing executed)
+  u0a211:
+    (nothing executed)
+  u0a212:
+    (nothing executed)
+  u0a219:
+    (nothing executed)
+  u0a220:
+    (nothing executed)
+  u0a223:
+    (nothing executed)
+  u0a225:
+    Wake lock WindowManager realtime
+    Sensor GPS: (not used)
+
+Statistics since last unplugged:
+  Time on battery: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Total run time: 13m 12s 365ms realtime, 13m 12s 365ms uptime
+  Start clock time: 2015-10-19-13-15-27
+  Screen on: 0ms (--%) 0x, Interactive: 0ms (--%)
+  Screen brightnesses: (no activity)
+  Mobile total received: 0B, sent: 0B (packets received 0, sent 0)
+  Phone signal levels: (no activity)
+  Signal scanning time: 0ms
+  Radio types: (no activity)
+  Mobile radio active time: 0ms (--%) 0x
+  Wi-Fi total received: 0B, sent: 0B (packets received 0, sent 0)
+  Wifi on: 0ms (--%), Wifi running: 0ms (--%)
+  Wifi states: (no activity)
+  Wifi supplicant states: (no activity)
+  Wifi signal levels: (no activity)
+  Bluetooth on: 0ms (--%)
+  Bluetooth states: (no activity)
+
+  Device is currently plugged into power
+    Last discharge cycle start level: 43
+    Last discharge cycle end level: 43
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+ 
+  1000:
+    Wake lock *alarm* realtime
+    Wake lock TimaService realtime
+  1001:
+    Wake lock RILJ0 realtime
+    Wake lock *alarm* realtime
+  1002:
+    (nothing executed)
+  1021:
+    Sensor 0: (not used)
+    Sensor 1: (not used)
+    Sensor 4: (not used)
+    Sensor 12: (not used)
+    Sensor 1937338482: (not used)
+  1027:
+    (nothing executed)
+  u0a1:
+    (nothing executed)
+  u0a3:
+    (nothing executed)
+  u0a4:
+    (nothing executed)
+  u0a5:
+    (nothing executed)
+  u0a6:
+    (nothing executed)
+  u0a8:
+    (nothing executed)
+  u0a9:
+    (nothing executed)
+  u0a10:
+    (nothing executed)
+  u0a12:
+    (nothing executed)
+  u0a13:
+    (nothing executed)
+  u0a14:
+    Wake lock Event Log Handoff realtime
+    Wake lock Event Log Service realtime
+    Wake lock *alarm* realtime
+    Wake lock NlpWakeLock realtime
+    Wake lock GCoreFlp realtime
+    Apk com.google.android.gms:
+      (nothing executed)
+  u0a16:
+    (nothing executed)
+  u0a17:
+    (nothing executed)
+  u0a19:
+    (nothing executed)
+  u0a21:
+    (nothing executed)
+  u0a22:
+    (nothing executed)
+  u0a23:
+    (nothing executed)
+  u0a25:
+    (nothing executed)
+  u0a28:
+    (nothing executed)
+  u0a31:
+    (nothing executed)
+  u0a35:
+    (nothing executed)
+  u0a36:
+    (nothing executed)
+  u0a37:
+    (nothing executed)
+  u0a38:
+    (nothing executed)
+  u0a39:
+    Wake lock *alarm* realtime
+  u0a42:
+    (nothing executed)
+  u0a44:
+    (nothing executed)
+  u0a45:
+    (nothing executed)
+  u0a46:
+    (nothing executed)
+  u0a47:
+    (nothing executed)
+  u0a48:
+    (nothing executed)
+  u0a50:
+    (nothing executed)
+  u0a52:
+    (nothing executed)
+  u0a53:
+    (nothing executed)
+  u0a54:
+    (nothing executed)
+  u0a56:
+    (nothing executed)
+  u0a59:
+    (nothing executed)
+  u0a60:
+    (nothing executed)
+  u0a61:
+    (nothing executed)
+  u0a62:
+    (nothing executed)
+  u0a66:
+    (nothing executed)
+  u0a68:
+    (nothing executed)
+  u0a69:
+    (nothing executed)
+  u0a73:
+    (nothing executed)
+  u0a75:
+    (nothing executed)
+  u0a80:
+    (nothing executed)
+  u0a81:
+    (nothing executed)
+  u0a83:
+    (nothing executed)
+  u0a86:
+    (nothing executed)
+  u0a87:
+    (nothing executed)
+  u0a90:
+    (nothing executed)
+  u0a93:
+    (nothing executed)
+  u0a99:
+    (nothing executed)
+  u0a103:
+    (nothing executed)
+  u0a104:
+    (nothing executed)
+  u0a107:
+    (nothing executed)
+  u0a110:
+    (nothing executed)
+  u0a111:
+    (nothing executed)
+  u0a112:
+    (nothing executed)
+  u0a113:
+    (nothing executed)
+  u0a114:
+    (nothing executed)
+  u0a115:
+    (nothing executed)
+  u0a117:
+    (nothing executed)
+  u0a118:
+    (nothing executed)
+  u0a120:
+    (nothing executed)
+  u0a123:
+    (nothing executed)
+  u0a124:
+    (nothing executed)
+  u0a125:
+    (nothing executed)
+  u0a126:
+    (nothing executed)
+  u0a129:
+    (nothing executed)
+  u0a130:
+    (nothing executed)
+  u0a131:
+    (nothing executed)
+  u0a133:
+    (nothing executed)
+  u0a134:
+    (nothing executed)
+  u0a136:
+    (nothing executed)
+  u0a137:
+    (nothing executed)
+  u0a139:
+    (nothing executed)
+  u0a143:
+    (nothing executed)
+  u0a148:
+    (nothing executed)
+  u0a153:
+    (nothing executed)
+  u0a155:
+    (nothing executed)
+  u0a156:
+    (nothing executed)
+  u0a161:
+    (nothing executed)
+  u0a163:
+    (nothing executed)
+  u0a166:
+    Wake lock *alarm* realtime
+  u0a169:
+    (nothing executed)
+  u0a170:
+    (nothing executed)
+  u0a172:
+    (nothing executed)
+  u0a173:
+    (nothing executed)
+  u0a174:
+    (nothing executed)
+  u0a177:
+    (nothing executed)
+  u0a180:
+    (nothing executed)
+  u0a182:
+    (nothing executed)
+  u0a185:
+    (nothing executed)
+  u0a186:
+    (nothing executed)
+  u0a187:
+    (nothing executed)
+  u0a189:
+    (nothing executed)
+  u0a191:
+    (nothing executed)
+  u0a194:
+    (nothing executed)
+  u0a195:
+    (nothing executed)
+  u0a198:
+    (nothing executed)
+  u0a199:
+    (nothing executed)
+  u0a201:
+    (nothing executed)
+  u0a204:
+    Wake lock *alarm* realtime
+  u0a209:
+    (nothing executed)
+  u0a211:
+    (nothing executed)
+  u0a212:
+    (nothing executed)
+  u0a219:
+    (nothing executed)
+  u0a220:
+    (nothing executed)
+  u0a223:
+    (nothing executed)
+  u0a225:
+    Wake lock WindowManager realtime
+    Sensor GPS: (not used)

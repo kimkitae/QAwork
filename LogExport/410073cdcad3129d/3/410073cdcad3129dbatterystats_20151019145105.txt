@@ -1,0 +1,1903 @@
+Battery History (3% used, 10KB used of 256KB, 95 strings using 6254):
+                    0 (9) RESET:TIME: 2015-10-19-13-15-27
+                    0 (2) 043 status=charging health=good plug=usb temp=313 volt=3980 +running +wake_lock +gps +mobile_radio +screen +plugged data_conn=lte phone_signal_strength=great brightness=medium +wifi_running proc=u0a80:"com.skt.skaf.OA00199800"
+                    0 (2) 043 proc=u0a23:"android.process.acore"
+                    0 (2) 043 proc=u0a166:"com.skt.tservice"
+                    0 (2) 043 proc=u0a69:"com.google.android.googlequicksearchbox:interactor"
+                    0 (2) 043 proc=1000:"WebViewLoader-armeabi-v7a"
+                    0 (2) 043 proc=u0a61:"com.skt.prod.dialer"
+                    0 (2) 043 proc=1000:"com.sec.ims.android"
+                    0 (2) 043 proc=u0a66:"com.skt.skaf.Z00000TAPI"
+                    0 (2) 043 proc=u0a1:"com.skt.skaf.A000Z00040"
+                    0 (2) 043 proc=1000:"com.sec.android.app.popupuireceiver"
+                    0 (2) 043 proc=u0a14:"com.google.process.gapps"
+                    0 (2) 043 proc=u0a3:"com.sec.android.cloudagent"
+                    0 (2) 043 proc=1000:"com.android.settings"
+                    0 (2) 043 proc=u0a99:"com.android.chrome"
+                    0 (2) 043 proc=1001:"com.android.incallui"
+                    0 (2) 043 proc=1000:"com.sec.android.voltesettings"
+                    0 (2) 043 proc=1000:"com.samsung.android.app.mirrorlink"
+                    0 (2) 043 proc=u0a155:"com.samsung.android.app.powersharing"
+                    0 (2) 043 proc=u0a209:"com.sec.android.daemonapp"
+                    0 (2) 043 proc=u0a39:"com.sec.spp.push"
+                    0 (2) 043 proc=u0a223:"ru.gavrikov.mocklocations"
+                    0 (2) 043 proc=1002:"com.android.bluetooth"
+                    0 (2) 043 proc=1000:"com.skt.skaf.OA00412131"
+                    0 (2) 043 proc=u0a60:"com.android.systemui.imagewallpaper"
+                    0 (2) 043 proc=u0a14:"com.google.android.gms"
+                    0 (2) 043 proc=1000:"com.sec.knox.bridge"
+                    0 (2) 043 proc=u0a204:"com.ahnlab.v3mobilestd"
+                    0 (2) 043 proc=u0a14:"com.google.android.gms.persistent"
+                    0 (2) 043 proc=1000:"com.samsung.android.MtpApplication"
+                    0 (2) 043 proc=u0a23:"com.android.contacts"
+                    0 (2) 043 proc=1000:"com.sec.android.inputmethod"
+                    0 (2) 043 proc=u0a4:"com.samsung.android.providers.context"
+                    0 (2) 043 proc=u0a225:"com.skt.skaf.l001mtm091"
+                    0 (2) 043 proc=1001:"com.sec.phone"
+                    0 (2) 043 proc=u0a62:"com.skt.prod.phone"
+                    0 (2) 043 proc=u0a93:"com.skt.apra"
+                    0 (2) 043 proc=1001:"com.android.server.telecom"
+                    0 (2) 043 proc=u0a6:"com.android.defcontainer"
+                    0 (2) 043 proc=u0a161:"com.visionobjects.resourcemanager"
+                    0 (2) 043 proc=u0a56:"com.sec.android.app.videoplayer"
+                    0 (2) 043 proc=u0a48:"android.process.media"
+                    0 (2) 043 proc=u0a9:"com.sec.android.app.launcher"
+                    0 (2) 043 proc=u0a60:"com.android.systemui"
+                    0 (2) 043 proc=u0a23:"com.sec.android.provider.logsprovider"
+                    0 (2) 043 proc=1001:"com.android.phone"
+                    0 (2) 043 proc=1027:"com.android.nfc"
+                    0 (2) 043 proc=u0a153:"com.google.android.apps.plus"
+                    0 (2) 043 proc=u0a31:"com.android.vending"
+                    0 (2) 043 proc=u0a69:"com.google.android.googlequicksearchbox:search"
+                    0 (2) 043 proc=u0a131:"com.skt.iwlan:remote"
+                    0 (2) 043 top=u0a225:"com.skt.skaf.l001mtm091"
+                    0 (2) 043 wake_lock_in=-1:"screen"
+                    0 (2) 043 user=0:"0"
+                    0 (2) 043 userfg=0:"0"
+               +110ms (2) 043 +proc=u0a80:"com.skt.skaf.OA00199800"
+               +110ms (2) 043 +proc=u0a23:"android.process.acore"
+               +110ms (2) 043 +proc=u0a166:"com.skt.tservice"
+               +110ms (2) 043 +proc=u0a69:"com.google.android.googlequicksearchbox:interactor"
+               +110ms (2) 043 +proc=1000:"WebViewLoader-armeabi-v7a"
+               +110ms (2) 043 +proc=u0a61:"com.skt.prod.dialer"
+               +110ms (2) 043 +proc=1000:"com.sec.ims.android"
+               +110ms (2) 043 +proc=u0a66:"com.skt.skaf.Z00000TAPI"
+               +110ms (2) 043 +proc=u0a1:"com.skt.skaf.A000Z00040"
+               +110ms (2) 043 +proc=1000:"com.sec.android.app.popupuireceiver"
+               +110ms (2) 043 +proc=u0a14:"com.google.process.gapps"
+               +110ms (2) 043 +proc=u0a3:"com.sec.android.cloudagent"
+               +110ms (2) 043 +proc=1000:"com.android.settings"
+               +110ms (2) 043 +proc=u0a99:"com.android.chrome"
+               +110ms (2) 043 +proc=1001:"com.android.incallui"
+               +110ms (2) 043 +proc=1000:"com.sec.android.voltesettings"
+               +110ms (2) 043 +proc=1000:"com.samsung.android.app.mirrorlink"
+               +110ms (2) 043 +proc=u0a155:"com.samsung.android.app.powersharing"
+               +110ms (2) 043 +proc=u0a209:"com.sec.android.daemonapp"
+               +110ms (2) 043 +proc=u0a39:"com.sec.spp.push"
+               +110ms (2) 043 +proc=u0a223:"ru.gavrikov.mocklocations"
+               +110ms (2) 043 +proc=1002:"com.android.bluetooth"
+               +110ms (2) 043 +proc=1000:"com.skt.skaf.OA00412131"
+               +110ms (2) 043 +proc=u0a60:"com.android.systemui.imagewallpaper"
+               +110ms (2) 043 +proc=u0a14:"com.google.android.gms"
+               +110ms (2) 043 +proc=1000:"com.sec.knox.bridge"
+               +110ms (2) 043 +proc=u0a204:"com.ahnlab.v3mobilestd"
+               +110ms (2) 043 +proc=u0a14:"com.google.android.gms.persistent"
+               +110ms (2) 043 +proc=1000:"com.samsung.android.MtpApplication"
+               +110ms (2) 043 +proc=u0a23:"com.android.contacts"
+               +110ms (2) 043 +proc=1000:"com.sec.android.inputmethod"
+               +110ms (2) 043 +proc=u0a4:"com.samsung.android.providers.context"
+               +110ms (2) 043 +proc=u0a225:"com.skt.skaf.l001mtm091"
+               +110ms (2) 043 +proc=1001:"com.sec.phone"
+               +110ms (2) 043 +proc=u0a62:"com.skt.prod.phone"
+               +110ms (2) 043 +proc=u0a93:"com.skt.apra"
+               +110ms (2) 043 +proc=1001:"com.android.server.telecom"
+               +110ms (2) 043 +proc=u0a6:"com.android.defcontainer"
+               +110ms (2) 043 +proc=u0a161:"com.visionobjects.resourcemanager"
+               +110ms (2) 043 +proc=u0a56:"com.sec.android.app.videoplayer"
+               +110ms (2) 043 +proc=u0a48:"android.process.media"
+               +110ms (2) 043 +proc=u0a9:"com.sec.android.app.launcher"
+               +110ms (2) 043 +proc=u0a60:"com.android.systemui"
+               +110ms (2) 043 +proc=u0a23:"com.sec.android.provider.logsprovider"
+               +110ms (2) 043 +proc=1001:"com.android.phone"
+               +110ms (2) 043 +proc=1027:"com.android.nfc"
+               +110ms (2) 043 +proc=u0a153:"com.google.android.apps.plus"
+               +110ms (2) 043 +proc=u0a31:"com.android.vending"
+               +110ms (2) 043 +proc=u0a69:"com.google.android.googlequicksearchbox:search"
+               +110ms (2) 043 +proc=u0a131:"com.skt.iwlan:remote"
+            +32s695ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+            +32s812ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+            +33s863ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+            +33s882ms (2) 043 +wake_lock_in=1001:"*alarm*"
+            +33s882ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+            +33s887ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+            +33s887ms (2) 043 -wake_lock_in=1001:"*alarm*"
+            +33s904ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +1m32s693ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +1m32s819ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +1m33s965ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +1m34s000ms (2) 043 +wake_lock_in=1001:"*alarm*"
+          +1m34s000ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +1m34s005ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +1m34s005ms (2) 043 -wake_lock_in=1001:"*alarm*"
+          +1m34s022ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +2m32s695ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +2m32s799ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +2m34s085ms (2) 043 +wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+          +2m34s098ms (2) 043 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+          +2m34s116ms (2) 043 -wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+          +2m34s116ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +2m34s139ms (2) 043 +wake_lock_in=u0a204:"*alarm*"
+          +2m34s139ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +2m34s160ms (2) 043 +wake_lock_in=1001:"*alarm*"
+          +2m34s160ms (2) 043 -wake_lock_in=u0a204:"*alarm*"
+          +2m34s166ms (2) 043 -wake_lock_in=1001:"*alarm*"
+          +2m34s174ms (2) 043 +wake_lock_in=1001:"RILJ0"
+          +2m34s176ms (2) 043 -wake_lock_in=1001:"RILJ0"
+          +2m34s177ms (2) 043 +wake_lock_in=1001:"RILJ0"
+          +2m34s202ms (2) 043 -wake_lock_in=1001:"RILJ0"
+          +2m34s219ms (2) 043 -wake_lock_in=u0a14:"NlpWakeLock"
+          +2m34s221ms (2) 043 -wifi_full_lock +wake_lock_in=u0a14:"GCoreFlp"
+          +2m34s224ms (2) 043 -wake_lock_in=u0a14:"GCoreFlp"
+          +2m44s214ms (2) 043 +wake_lock_in=1000:"TimaService"
+          +2m46s866ms (2) 043 -wake_lock_in=1000:"TimaService"
+          +3m32s692ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +3m32s786ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +3m34s194ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +3m34s215ms (2) 043 +wake_lock_in=1001:"*alarm*"
+          +3m34s215ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +3m34s223ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +3m34s223ms (2) 043 -wake_lock_in=1001:"*alarm*"
+          +3m34s238ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +4m32s693ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +4m32s719ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +4m32s719ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +4m32s727ms (2) 043 +wake_lock_in=1000:"*alarm*"
+          +4m32s727ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +4m32s798ms (2) 043 -wake_lock_in=1000:"*alarm*"
+          +4m57s125ms (2) 043 +wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+          +4m57s133ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +4m57s133ms (2) 043 -wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+          +4m57s151ms (2) 043 +wake_lock_in=u0a204:"*alarm*"
+          +4m57s151ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +4m57s175ms (2) 043 -wake_lock_in=u0a204:"*alarm*"
+          +5m32s696ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +5m32s775ms (2) 043 -proc=u0a3:"com.sec.android.cloudagent"
+          +5m32s779ms (2) 043 -proc=1000:"com.samsung.android.app.mirrorlink"
+          +5m32s784ms (2) 043 -proc=u0a56:"com.sec.android.app.videoplayer"
+          +5m32s788ms (2) 043 -proc=1000:"com.android.settings"
+          +5m32s811ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +5m57s220ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +5m57s238ms (2) 043 +wake_lock_in=1001:"*alarm*"
+          +5m57s238ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +5m57s243ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +5m57s243ms (2) 043 -wake_lock_in=1001:"*alarm*"
+          +5m57s258ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +6m32s694ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +6m32s789ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +7m32s693ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +7m32s794ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +7m34s113ms (2) 043 +wake_lock_in=u0a14:"*walarm*:com.google.android.gms.auth.authzen.CHECK_REGISTRATION"
+          +7m34s165ms (2) 043 +wake_lock_in=u0a14:"Event Log Handoff"
+          +7m34s177ms (2) 043 +wake_lock_in=u0a14:"Event Log Service"
+          +7m34s178ms (2) 043 -wake_lock_in=u0a14:"Event Log Handoff"
+          +7m34s185ms (2) 043 -wake_lock_in=u0a14:"*walarm*:com.google.android.gms.auth.authzen.CHECK_REGISTRATION"
+          +7m34s185ms (2) 043 +wake_lock_in=1000:"*alarm*"
+          +7m34s190ms (2) 043 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+          +7m34s197ms (2) 043 -wake_lock_in=1000:"*alarm*"
+          +7m34s197ms (2) 043 +wake_lock_in=u0a166:"*alarm*"
+          +7m34s209ms (2) 043 +wake_lock_in=1000:"*alarm*"
+          +7m34s209ms (2) 043 -wake_lock_in=u0a166:"*alarm*"
+          +7m34s225ms (2) 043 +wake_lock_in=u0a39:"*alarm*"
+          +7m34s225ms (2) 043 -wake_lock_in=1000:"*alarm*"
+          +7m34s263ms (2) 043 +wake_lock_in=1001:"RILJ0"
+          +7m34s264ms (2) 043 +wake_lock_in=u0a204:"*alarm*"
+          +7m34s264ms (2) 043 -wake_lock_in=u0a39:"*alarm*"
+          +7m34s266ms (2) 043 -wake_lock_in=1001:"RILJ0"
+          +7m34s274ms (2) 043 +wake_lock_in=1001:"RILJ0"
+          +7m34s275ms (2) 043 +wake_lock_in=1001:"*alarm*"
+          +7m34s275ms (2) 043 -wake_lock_in=u0a204:"*alarm*"
+          +7m34s278ms (2) 043 -wake_lock_in=1001:"*alarm*"
+          +7m34s300ms (2) 043 -wake_lock_in=1001:"RILJ0"
+          +7m34s327ms (2) 043 -wake_lock_in=u0a14:"Event Log Service"
+          +7m34s328ms (2) 043 -wake_lock_in=u0a14:"NlpWakeLock"
+          +7m34s330ms (2) 043 +wake_lock_in=u0a14:"GCoreFlp"
+          +7m34s333ms (2) 043 -wifi_full_lock -wake_lock_in=u0a14:"GCoreFlp"
+          +7m44s214ms (2) 043 +wake_lock_in=1000:"TimaService"
+          +7m49s310ms (2) 043 -wake_lock_in=1000:"TimaService"
+          +8m32s693ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +8m32s821ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +8m34s290ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +8m34s315ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +8m34s315ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +8m34s328ms (2) 043 +wake_lock_in=1001:"*alarm*"
+          +8m34s328ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+          +8m34s332ms (2) 043 -wake_lock_in=1001:"*alarm*"
+          +9m32s695ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +9m32s787ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +9m34s394ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +9m34s412ms (2) 043 +wake_lock_in=1001:"*alarm*"
+          +9m34s412ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+          +9m34s419ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+          +9m34s419ms (2) 043 -wake_lock_in=1001:"*alarm*"
+          +9m34s441ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+         +10m32s692ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +10m32s793ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +10m34s494ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +10m34s518ms (2) 043 +wake_lock_in=1001:"*alarm*"
+         +10m34s518ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +10m34s522ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+         +10m34s522ms (2) 043 -wake_lock_in=1001:"*alarm*"
+         +10m34s535ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+         +11m28s790ms (2) 043 volt=3952
+         +11m32s695ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +11m32s795ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +11m34s584ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +11m34s611ms (2) 043 +wake_lock_in=1001:"*alarm*"
+         +11m34s611ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +11m34s618ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+         +11m34s618ms (2) 043 -wake_lock_in=1001:"*alarm*"
+         +11m34s635ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+         +11m48s987ms (2) 043 volt=3977
+         +12m32s692ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +12m32s808ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +12m34s685ms (2) 043 +wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +12m34s700ms (2) 043 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+         +12m34s708ms (2) 043 -wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +12m34s708ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+         +12m34s732ms (2) 043 +wake_lock_in=u0a204:"*alarm*"
+         +12m34s732ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+         +12m34s754ms (2) 043 +wake_lock_in=1001:"*alarm*"
+         +12m34s754ms (2) 043 -wake_lock_in=u0a204:"*alarm*"
+         +12m34s758ms (2) 043 -wake_lock_in=1001:"*alarm*"
+         +12m34s777ms (2) 043 +wake_lock_in=1001:"RILJ0"
+         +12m34s779ms (2) 043 -wake_lock_in=1001:"RILJ0"
+         +12m34s781ms (2) 043 +wake_lock_in=1001:"RILJ0"
+         +12m34s805ms (2) 043 -wake_lock_in=1001:"RILJ0"
+         +12m34s820ms (2) 043 -wake_lock_in=u0a14:"NlpWakeLock"
+         +12m34s821ms (2) 043 -wifi_full_lock +wake_lock_in=u0a14:"GCoreFlp"
+         +12m34s825ms (2) 043 -wake_lock_in=u0a14:"GCoreFlp"
+         +12m44s215ms (2) 043 +wake_lock_in=1000:"TimaService"
+         +12m46s843ms (2) 043 -wake_lock_in=1000:"TimaService"
+         +13m32s695ms (2) 043 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +13m32s821ms (2) 043 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +13m34s792ms (2) 043 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +13m34s819ms (2) 043 +wake_lock_in=1001:"*alarm*"
+         +13m34s819ms (2) 043 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +13m34s823ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+         +13m34s823ms (2) 043 -wake_lock_in=1001:"*alarm*"
+         +13m34s836ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+         +14m32s693ms (2) 043 +wake_lock_in=u0a166:"*alarm*:com.skt.tservice/.appmanager.receiver.AppTrackingAlarmReceiver"
+         +14m32s728ms (2) 043 +wake_lock_in=u0a204:"*alarm*"
+         +14m32s728ms (2) 043 -wake_lock_in=u0a166:"*alarm*:com.skt.tservice/.appmanager.receiver.AppTrackingAlarmReceiver"
+         +14m32s742ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+         +14m32s742ms (2) 043 -wake_lock_in=u0a204:"*alarm*"
+         +14m32s754ms (2) 043 +wake_lock_in=1000:"*alarm*"
+         +14m32s754ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+         +14m32s830ms (2) 043 -wake_lock_in=1000:"*alarm*"
+         +14m57s123ms (2) 043 +wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+         +14m57s130ms (2) 043 +wake_lock_in=u0a14:"*alarm*"
+         +14m57s130ms (2) 043 -wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+         +14m57s152ms (2) 043 +wake_lock_in=u0a204:"*alarm*"
+         +14m57s152ms (2) 043 -wake_lock_in=u0a14:"*alarm*"
+         +14m57s174ms (2) 043 -wake_lock_in=u0a204:"*alarm*"
+         +15m00s817ms (2) 042
+         +15m32s694ms (2) 042 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +15m32s801ms (2) 042 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +15m42s050ms (2) 042 +wake_lock_in=u0a80:"*walarm*:com.skt.aom.intent.ACTION_TIMER"
+         +15m42s076ms (2) 042 +wake_lock_in=u0a80:"SMSReceive"
+         +15m42s080ms (2) 042 -wake_lock_in=u0a80:"*walarm*:com.skt.aom.intent.ACTION_TIMER"
+         +15m42s683ms (2) 042 +wake_lock_in=u0a39:"b"
+         +15m42s684ms (2) 042 -wake_lock_in=u0a39:"b"
+         +15m42s716ms (2) 042 +proc=u0a39:"com.sec.spp.push:RemoteDlcProcess"
+         +15m42s800ms (2) 042 +wake_lock_in=u0a39:"b"
+         +15m42s801ms (2) 042 -wake_lock_in=u0a39:"b"
+         +15m42s909ms (2) 042 -proc=u0a61:"com.skt.prod.dialer"
+         +15m44s081ms (2) 042 -wake_lock_in=u0a80:"SMSReceive"
+         +15m51s309ms (2) 042 volt=3953
+         +15m57s208ms (2) 042 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +15m57s234ms (2) 042 +wake_lock_in=1001:"*alarm*"
+         +15m57s234ms (2) 042 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +15m57s241ms (2) 042 +wake_lock_in=u0a14:"*alarm*"
+         +15m57s241ms (2) 042 -wake_lock_in=1001:"*alarm*"
+         +15m57s264ms (2) 042 -wake_lock_in=u0a14:"*alarm*"
+         +16m01s403ms (2) 042 volt=3975
+         +16m32s693ms (2) 042 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +16m32s786ms (2) 042 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +17m32s694ms (2) 042 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +17m32s786ms (2) 042 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +17m34s707ms (2) 042 +wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+         +17m34s737ms (2) 042 -wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+         +17m34s737ms (2) 042 +wake_lock_in=1000:"*alarm*"
+         +17m34s745ms (2) 042 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+         +17m34s753ms (2) 042 -wake_lock_in=1000:"*alarm*"
+         +17m34s753ms (2) 042 +wake_lock_in=u0a204:"*alarm*"
+         +17m34s770ms (2) 042 +wake_lock_in=1001:"*alarm*"
+         +17m34s770ms (2) 042 -wake_lock_in=u0a204:"*alarm*"
+         +17m34s775ms (2) 042 -wake_lock_in=1001:"*alarm*"
+         +17m34s795ms (2) 042 +wake_lock_in=1001:"RILJ0"
+         +17m34s797ms (2) 042 -wake_lock_in=1001:"RILJ0"
+         +17m34s799ms (2) 042 +wake_lock_in=1001:"RILJ0"
+         +17m34s823ms (2) 042 -wake_lock_in=1001:"RILJ0"
+         +17m34s834ms (2) 042 -wake_lock_in=u0a14:"NlpWakeLock"
+         +17m34s836ms (2) 042 -wifi_full_lock +wake_lock_in=u0a14:"GCoreFlp"
+         +17m34s840ms (2) 042 -wake_lock_in=u0a14:"GCoreFlp"
+         +17m44s216ms (2) 042 +wake_lock_in=1000:"TimaService"
+         +17m49s313ms (2) 042 -wake_lock_in=1000:"TimaService"
+         +18m32s694ms (2) 042 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +18m32s814ms (2) 042 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +18m34s807ms (2) 042 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +18m34s825ms (2) 042 +wake_lock_in=1001:"*alarm*"
+         +18m34s825ms (2) 042 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +18m34s829ms (2) 042 +wake_lock_in=u0a14:"*alarm*"
+         +18m34s829ms (2) 042 -wake_lock_in=1001:"*alarm*"
+         +18m34s852ms (2) 042 -wake_lock_in=u0a14:"*alarm*"
+         +19m32s704ms (2) 042 +wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +19m32s730ms (2) 042 -wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +19m32s730ms (2) 042 +wake_lock_in=u0a204:"*alarm*"
+         +19m32s735ms (2) 042 +wake_lock_in=1000:"*alarm*"
+         +19m32s735ms (2) 042 -wake_lock_in=u0a204:"*alarm*"
+         +19m32s805ms (2) 042 -wake_lock_in=1000:"*alarm*"
+         +19m57s124ms (2) 042 +wake_lock_in=1000:"*alarm*:android.net.ConnectivityService.action.PKT_CNT_SAMPLE_INTERVAL_ELAPSED"
+         +19m57s149ms (2) 042 +wake_lock_in=u0a39:"*alarm*"
+         +19m57s149ms (2) 042 -wake_lock_in=1000:"*alarm*:android.net.ConnectivityService.action.PKT_CNT_SAMPLE_INTERVAL_ELAPSED"
+         +19m57s169ms (2) 042 +wake_lock_in=1001:"*alarm*"
+         +19m57s169ms (2) 042 -wake_lock_in=u0a39:"*alarm*"
+         +19m57s172ms (2) 042 +wake_lock_in=u0a14:"*alarm*"
+         +19m57s172ms (2) 042 -wake_lock_in=1001:"*alarm*"
+         +19m57s182ms (2) 042 +wake_lock_in=u0a204:"*alarm*"
+         +19m57s182ms (2) 042 -wake_lock_in=u0a14:"*alarm*"
+         +19m57s199ms (2) 042 -wake_lock_in=u0a204:"*alarm*"
+         +20m32s693ms (2) 042 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +20m32s810ms (2) 042 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +20m57s235ms (2) 042 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +20m57s269ms (2) 042 +wake_lock_in=1001:"*alarm*"
+         +20m57s269ms (2) 042 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +20m57s280ms (2) 042 +wake_lock_in=u0a14:"*alarm*"
+         +20m57s280ms (2) 042 -wake_lock_in=1001:"*alarm*"
+         +20m57s298ms (2) 042 -wake_lock_in=u0a14:"*alarm*"
+         +21m32s692ms (2) 042 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +21m32s799ms (2) 042 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +22m32s694ms (2) 042 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +22m32s822ms (2) 042 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +22m34s753ms (2) 042 +wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+         +22m34s779ms (2) 042 -wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+         +22m34s780ms (2) 042 +wake_lock_in=1000:"*alarm*"
+         +22m34s784ms (2) 042 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+         +22m34s797ms (2) 042 -wake_lock_in=1000:"*alarm*"
+         +22m34s797ms (2) 042 +wake_lock_in=u0a204:"*alarm*"
+         +22m34s809ms (2) 042 +wake_lock_in=1001:"*alarm*"
+         +22m34s809ms (2) 042 -wake_lock_in=u0a204:"*alarm*"
+         +22m34s818ms (2) 042 -wake_lock_in=1001:"*alarm*"
+         +22m34s831ms (2) 042 +wake_lock_in=1001:"RILJ0"
+         +22m34s833ms (2) 042 -wake_lock_in=1001:"RILJ0"
+         +22m34s835ms (2) 042 +wake_lock_in=1001:"RILJ0"
+         +22m34s860ms (2) 042 -wake_lock_in=1001:"RILJ0"
+         +22m34s872ms (2) 042 -wake_lock_in=u0a14:"NlpWakeLock"
+         +22m34s873ms (2) 042 +wake_lock_in=u0a14:"GCoreFlp"
+         +22m34s876ms (2) 042 -wifi_full_lock -wake_lock_in=u0a14:"GCoreFlp"
+         +22m35s068ms (2) 042 volt=3950
+         +22m44s216ms (2) 042 +wake_lock_in=1000:"TimaService"
+         +22m45s164ms (2) 042 volt=3973
+         +22m46s855ms (2) 042 -wake_lock_in=1000:"TimaService"
+         +23m32s694ms (2) 042 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +23m32s791ms (2) 042 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +23m34s920ms (2) 042 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +23m34s953ms (2) 042 +wake_lock_in=1001:"*alarm*"
+         +23m34s953ms (2) 042 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +23m34s965ms (2) 042 +wake_lock_in=u0a14:"*alarm*"
+         +23m34s965ms (2) 042 -wake_lock_in=1001:"*alarm*"
+         +23m34s977ms (2) 042 -wake_lock_in=u0a14:"*alarm*"
+         +24m32s704ms (2) 042 +wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +24m32s714ms (2) 042 +wake_lock_in=1000:"NetworkStats"
+         +24m32s718ms (2) 042 -wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +24m32s718ms (2) 042 +wake_lock_in=1000:"*alarm*"
+         +24m32s732ms (2) 042 -wake_lock_in=1000:"NetworkStats"
+         +24m32s735ms (2) 042 +wake_lock_in=u0a166:"*alarm*"
+         +24m32s735ms (2) 042 -wake_lock_in=1000:"*alarm*"
+         +24m32s750ms (2) 042 +wake_lock_in=u0a204:"*alarm*"
+         +24m32s750ms (2) 042 -wake_lock_in=u0a166:"*alarm*"
+         +24m32s769ms (2) 042 +wake_lock_in=1000:"*alarm*"
+         +24m32s769ms (2) 042 -wake_lock_in=u0a204:"*alarm*"
+         +24m32s805ms (2) 042 -wake_lock_in=1000:"*alarm*"
+         +24m57s124ms (2) 042 +wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+         +24m57s131ms (2) 042 +wake_lock_in=u0a14:"*alarm*"
+         +24m57s131ms (2) 042 -wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+         +24m57s159ms (2) 042 +wake_lock_in=u0a204:"*alarm*"
+         +24m57s159ms (2) 042 -wake_lock_in=u0a14:"*alarm*"
+         +24m57s177ms (2) 042 -wake_lock_in=u0a204:"*alarm*"
+         +25m32s694ms (2) 042 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +25m32s791ms (2) 042 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +25m57s224ms (2) 042 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +25m57s259ms (2) 042 +wake_lock_in=1001:"*alarm*"
+         +25m57s259ms (2) 042 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +25m57s269ms (2) 042 +wake_lock_in=u0a14:"*alarm*"
+         +25m57s269ms (2) 042 -wake_lock_in=1001:"*alarm*"
+         +25m57s283ms (2) 042 -wake_lock_in=u0a14:"*alarm*"
+         +26m32s693ms (2) 042 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +26m32s807ms (2) 042 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +27m32s692ms (2) 042 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +27m32s815ms (2) 042 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +27m34s793ms (2) 042 +wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+         +27m34s818ms (2) 042 -wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+         +27m34s819ms (2) 042 +wake_lock_in=1000:"*alarm*"
+         +27m34s823ms (2) 042 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+         +27m34s831ms (2) 042 -wake_lock_in=1000:"*alarm*"
+         +27m34s831ms (2) 042 +wake_lock_in=u0a204:"*alarm*"
+         +27m34s847ms (2) 042 +wake_lock_in=1001:"*alarm*"
+         +27m34s847ms (2) 042 -wake_lock_in=u0a204:"*alarm*"
+         +27m34s857ms (2) 042 -wake_lock_in=1001:"*alarm*"
+         +27m34s875ms (2) 042 +wake_lock_in=1001:"RILJ0"
+         +27m34s877ms (2) 042 -wake_lock_in=1001:"RILJ0"
+         +27m34s879ms (2) 042 +wake_lock_in=1001:"RILJ0"
+         +27m34s904ms (2) 042 -wake_lock_in=1001:"RILJ0"
+         +27m34s916ms (2) 042 -wake_lock_in=u0a14:"NlpWakeLock"
+         +27m34s917ms (2) 042 +wake_lock_in=u0a14:"GCoreFlp"
+         +27m34s920ms (2) 042 -wifi_full_lock -wake_lock_in=u0a14:"GCoreFlp"
+         +27m44s216ms (2) 042 +wake_lock_in=1000:"TimaService"
+         +27m49s301ms (2) 042 -wake_lock_in=1000:"TimaService"
+         +28m32s694ms (2) 042 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +28m32s822ms (2) 042 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +28m34s966ms (2) 042 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +28m34s999ms (2) 042 +wake_lock_in=1001:"*alarm*"
+         +28m34s999ms (2) 042 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +28m35s007ms (2) 042 +wake_lock_in=u0a14:"*alarm*"
+         +28m35s007ms (2) 042 -wake_lock_in=1001:"*alarm*"
+         +28m35s027ms (2) 042 -wake_lock_in=u0a14:"*alarm*"
+         +29m32s693ms (2) 042 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +29m32s798ms (2) 042 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +29m35s089ms (2) 042 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +29m35s122ms (2) 042 +wake_lock_in=1001:"*alarm*"
+         +29m35s122ms (2) 042 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +29m35s132ms (2) 042 +wake_lock_in=u0a14:"*alarm*"
+         +29m35s132ms (2) 042 -wake_lock_in=1001:"*alarm*"
+         +29m35s153ms (2) 042 -wake_lock_in=u0a14:"*alarm*"
+         +30m32s692ms (2) 042 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +30m32s775ms (2) 042 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +30m35s207ms (2) 042 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +30m35s227ms (2) 042 +wake_lock_in=1001:"*alarm*"
+         +30m35s227ms (2) 042 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +30m35s233ms (2) 042 +wake_lock_in=u0a14:"*alarm*"
+         +30m35s233ms (2) 042 -wake_lock_in=1001:"*alarm*"
+         +30m35s248ms (2) 042 -wake_lock_in=u0a14:"*alarm*"
+         +31m32s694ms (2) 042 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +31m32s797ms (2) 042 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +31m35s310ms (2) 042 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +31m35s346ms (2) 042 +wake_lock_in=1001:"*alarm*"
+         +31m35s346ms (2) 042 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +31m35s355ms (2) 042 +wake_lock_in=u0a14:"*alarm*"
+         +31m35s355ms (2) 042 -wake_lock_in=1001:"*alarm*"
+         +31m35s373ms (2) 042 -wake_lock_in=u0a14:"*alarm*"
+         +32m30s721ms (2) 041
+         +32m32s695ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +32m32s808ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +32m35s435ms (2) 041 +wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +32m35s453ms (2) 041 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+         +32m35s460ms (2) 041 -wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +32m35s460ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +32m35s473ms (2) 041 +wake_lock_in=u0a204:"*alarm*"
+         +32m35s473ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +32m35s485ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +32m35s485ms (2) 041 -wake_lock_in=u0a204:"*alarm*"
+         +32m35s495ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +32m35s498ms (2) 041 +wake_lock_in=1001:"RILJ0"
+         +32m35s500ms (2) 041 -wake_lock_in=1001:"RILJ0"
+         +32m35s504ms (2) 041 +wake_lock_in=1001:"RILJ0"
+         +32m35s528ms (2) 041 -wake_lock_in=1001:"RILJ0"
+         +32m35s543ms (2) 041 -wake_lock_in=u0a14:"NlpWakeLock"
+         +32m35s545ms (2) 041 -wifi_full_lock +wake_lock_in=u0a14:"GCoreFlp"
+         +32m35s548ms (2) 041 -wake_lock_in=u0a14:"GCoreFlp"
+         +32m44s217ms (2) 041 +wake_lock_in=1000:"TimaService"
+         +32m46s858ms (2) 041 -wake_lock_in=1000:"TimaService"
+         +33m32s695ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +33m32s810ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +33m35s534ms (2) 041 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +33m35s569ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +33m35s569ms (2) 041 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +33m35s583ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +33m35s583ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +33m35s605ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +34m32s695ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +34m32s819ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +34m35s664ms (2) 041 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +34m35s693ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +34m35s693ms (2) 041 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +34m35s697ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +34m35s697ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +34m35s709ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +35m32s694ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +35m32s800ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +35m35s772ms (2) 041 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +35m35s808ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +35m35s808ms (2) 041 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +35m35s821ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +35m35s821ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +35m35s840ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +36m32s695ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +36m32s802ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +36m35s900ms (2) 041 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +36m35s926ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +36m35s926ms (2) 041 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +36m35s929ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +36m35s929ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +36m35s941ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +37m32s692ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +37m32s807ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +37m35s996ms (2) 041 +wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +37m36s009ms (2) 041 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+         +37m36s022ms (2) 041 -wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +37m36s022ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +37m36s036ms (2) 041 +wake_lock_in=1000:"*alarm*"
+         +37m36s036ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +37m36s050ms (2) 041 +wake_lock_in=u0a39:"*alarm*"
+         +37m36s050ms (2) 041 -wake_lock_in=1000:"*alarm*"
+         +37m36s066ms (2) 041 +wake_lock_in=1001:"RILJ0"
+         +37m36s068ms (2) 041 -wake_lock_in=1001:"RILJ0"
+         +37m36s073ms (2) 041 +wake_lock_in=u0a166:"*alarm*"
+         +37m36s073ms (2) 041 -wake_lock_in=u0a39:"*alarm*"
+         +37m36s074ms (2) 041 +wake_lock_in=1001:"RILJ0"
+         +37m36s083ms (2) 041 +wake_lock_in=u0a204:"*alarm*"
+         +37m36s083ms (2) 041 -wake_lock_in=u0a166:"*alarm*"
+         +37m36s098ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +37m36s098ms (2) 041 -wake_lock_in=u0a204:"*alarm*"
+         +37m36s100ms (2) 041 -wake_lock_in=1001:"RILJ0"
+         +37m36s100ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +37m36s125ms (2) 041 -wake_lock_in=u0a14:"NlpWakeLock"
+         +37m36s127ms (2) 041 -wifi_full_lock +wake_lock_in=u0a14:"GCoreFlp"
+         +37m36s131ms (2) 041 -wake_lock_in=u0a14:"GCoreFlp"
+         +37m44s216ms (2) 041 +wake_lock_in=1000:"TimaService"
+         +37m49s301ms (2) 041 -wake_lock_in=1000:"TimaService"
+         +38m32s694ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +38m32s802ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +38m36s110ms (2) 041 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +38m36s143ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +38m36s143ms (2) 041 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +38m36s175ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +38m36s175ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +38m36s189ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +39m32s694ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +39m32s818ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +39m36s249ms (2) 041 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +39m36s269ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +39m36s269ms (2) 041 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +39m36s273ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +39m36s273ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +39m36s286ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +40m32s694ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +40m32s833ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +40m36s348ms (2) 041 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +40m36s382ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +40m36s382ms (2) 041 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +40m36s389ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +40m36s389ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +40m36s401ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +41m32s694ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +41m32s807ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +41m36s459ms (2) 041 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +41m36s475ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +41m36s475ms (2) 041 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +41m36s479ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +41m36s479ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +41m36s492ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +42m32s695ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +42m32s821ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +42m36s534ms (2) 041 +wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +42m36s546ms (2) 041 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+         +42m36s558ms (2) 041 -wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +42m36s559ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +42m36s585ms (2) 041 +wake_lock_in=u0a204:"*alarm*"
+         +42m36s585ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +42m36s608ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +42m36s608ms (2) 041 -wake_lock_in=u0a204:"*alarm*"
+         +42m36s613ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +42m36s623ms (2) 041 +wake_lock_in=1001:"RILJ0"
+         +42m36s624ms (2) 041 -wake_lock_in=1001:"RILJ0"
+         +42m36s633ms (2) 041 +wake_lock_in=1001:"RILJ0"
+         +42m36s658ms (2) 041 -wake_lock_in=1001:"RILJ0"
+         +42m36s673ms (2) 041 -wake_lock_in=u0a14:"NlpWakeLock"
+         +42m36s675ms (2) 041 -wifi_full_lock +wake_lock_in=u0a14:"GCoreFlp"
+         +42m36s678ms (2) 041 -wake_lock_in=u0a14:"GCoreFlp"
+         +42m44s218ms (2) 041 +wake_lock_in=1000:"TimaService"
+         +42m46s850ms (2) 041 -wake_lock_in=1000:"TimaService"
+         +43m30s604ms (2) 041 +wake_lock_in=u0a14:"GCM_CONN"
+         +43m30s609ms (2) 041 +wake_lock_in=u0a14:"*net_scheduler*"
+         +43m30s633ms (2) 041 -wake_lock_in=u0a14:"GCM_CONN"
+         +43m30s658ms (2) 041 +wake_lock_in=u0a212:"*net_scheduler*"
+         +43m30s685ms (2) 041 +proc=u0a212:"com.google.android.youtube"
+         +43m30s726ms (2) 041 -wake_lock_in=u0a14:"*net_scheduler*"
+         +43m30s728ms (2) 041 +wake_lock_in=u0a14:"*net_scheduler*"
+         +43m30s743ms (2) 041 -wake_lock_in=u0a14:"*net_scheduler*"
+         +43m31s148ms (2) 041 +wake_lock_in=u0a14:"*net_scheduler*"
+         +43m31s165ms (2) 041 -wake_lock_in=u0a14:"*net_scheduler*"
+         +43m31s191ms (2) 041 +wake_lock_in=u0a212:"kcn"
+         +43m31s192ms (2) 041 -wake_lock_in=u0a212:"kcn"
+         +43m31s193ms (2) 041 +wake_lock_in=u0a212:"kcn"
+         +43m31s199ms (2) 041 -wake_lock_in=u0a212:"kcn"
+         +43m32s560ms (2) 041 -wake_lock_in=u0a212:"*net_scheduler*"
+         +43m32s562ms (2) 041 +wake_lock_in=u0a14:"*net_scheduler*"
+         +43m32s576ms (2) 041 -wake_lock_in=u0a14:"*net_scheduler*"
+         +43m32s584ms (2) 041 +wake_lock_in=u0a14:"*net_scheduler*"
+         +43m32s603ms (2) 041 +wake_lock_in=u0a212:"*net_scheduler*"
+         +43m32s614ms (2) 041 -proc=u0a62:"com.skt.prod.phone"
+         +43m32s620ms (2) 041 -wake_lock_in=u0a14:"*net_scheduler*"
+         +43m32s691ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +43m32s768ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +43m32s937ms (2) 041 -wake_lock_in=u0a212:"*net_scheduler*"
+         +43m32s939ms (2) 041 +wake_lock_in=u0a14:"*net_scheduler*"
+         +43m32s969ms (2) 041 -wake_lock_in=u0a14:"*net_scheduler*"
+         +43m32s976ms (2) 041 +wake_lock_in=u0a14:"*net_scheduler*"
+         +43m32s994ms (2) 041 -wake_lock_in=u0a14:"*net_scheduler*"
+         +43m33s127ms (2) 041 +wake_lock_in=u0a14:"*net_scheduler*"
+         +43m33s170ms (2) 041 +wake_lock_in=u0a212:"*net_scheduler*"
+         +43m33s189ms (2) 041 -wake_lock_in=u0a14:"*net_scheduler*"
+         +43m33s490ms (2) 041 -wake_lock_in=u0a212:"*net_scheduler*"
+         +43m33s510ms (2) 041 +wake_lock_in=u0a14:"*net_scheduler*"
+         +43m33s521ms (2) 041 -wake_lock_in=u0a14:"*net_scheduler*"
+         +43m33s523ms (2) 041 +wake_lock_in=u0a14:"*net_scheduler*"
+         +43m33s539ms (2) 041 -wake_lock_in=u0a14:"*net_scheduler*"
+         +43m33s575ms (2) 041 +wake_lock_in=u0a14:"*net_scheduler*"
+         +43m33s593ms (2) 041 -wake_lock_in=u0a14:"*net_scheduler*"
+         +43m34s324ms (2) 041 +wake_lock_in=u0a14:"*net_scheduler*"
+         +43m34s353ms (2) 041 -wake_lock_in=u0a14:"*net_scheduler*"
+         +43m34s355ms (2) 041 +wake_lock_in=u0a14:"*net_scheduler*"
+         +43m34s372ms (2) 041 -wake_lock_in=u0a14:"*net_scheduler*"
+         +43m36s624ms (2) 041 +wake_lock_in=u0a14:"*walarm*:com.google.android.gms/.checkin.EventLogService$Receiver"
+         +43m36s650ms (2) 041 +wake_lock_in=u0a14:"Event Log Handoff"
+         +43m36s666ms (2) 041 +wake_lock_in=u0a204:"*alarm*"
+         +43m36s666ms (2) 041 -wake_lock_in=u0a14:"*walarm*:com.google.android.gms/.checkin.EventLogService$Receiver"
+         +43m36s684ms (2) 041 +wake_lock_in=u0a14:"Event Log Service"
+         +43m36s685ms (2) 041 -wake_lock_in=u0a14:"Event Log Handoff"
+         +43m36s691ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +43m36s691ms (2) 041 -wake_lock_in=u0a204:"*alarm*"
+         +43m36s702ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +43m36s702ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +43m36s712ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +43m36s787ms (2) 041 -wake_lock_in=u0a14:"Event Log Service"
+         +43m37s019ms (2) 041 volt=3942
+         +43m47s118ms (2) 041 volt=3977
+         +44m32s693ms (2) 041 +wake_lock_in=u0a166:"*alarm*:com.skt.tservice/.appmanager.receiver.AppTrackingAlarmReceiver"
+         +44m32s744ms (2) 041 +wake_lock_in=u0a204:"*alarm*"
+         +44m32s744ms (2) 041 -wake_lock_in=u0a166:"*alarm*:com.skt.tservice/.appmanager.receiver.AppTrackingAlarmReceiver"
+         +44m32s751ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +44m32s751ms (2) 041 -wake_lock_in=u0a204:"*alarm*"
+         +44m32s768ms (2) 041 +wake_lock_in=1000:"*alarm*"
+         +44m32s768ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +44m32s840ms (2) 041 -wake_lock_in=1000:"*alarm*"
+         +44m57s124ms (2) 041 +wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+         +44m57s132ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +44m57s132ms (2) 041 -wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+         +44m57s157ms (2) 041 +wake_lock_in=u0a204:"*alarm*"
+         +44m57s157ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +44m57s170ms (2) 041 -wake_lock_in=u0a204:"*alarm*"
+         +45m32s693ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +45m32s810ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +45m57s221ms (2) 041 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +45m57s259ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +45m57s259ms (2) 041 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +45m57s269ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +45m57s269ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +45m57s287ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +46m32s693ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +46m32s796ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +47m32s692ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +47m32s795ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +47m36s558ms (2) 041 +wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+         +47m36s587ms (2) 041 -wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+         +47m36s588ms (2) 041 +wake_lock_in=1000:"*alarm*"
+         +47m36s596ms (2) 041 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+         +47m36s606ms (2) 041 -wake_lock_in=1000:"*alarm*"
+         +47m36s606ms (2) 041 +wake_lock_in=u0a204:"*alarm*"
+         +47m36s626ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +47m36s626ms (2) 041 -wake_lock_in=u0a204:"*alarm*"
+         +47m36s632ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +47m36s651ms (2) 041 +wake_lock_in=1001:"RILJ0"
+         +47m36s653ms (2) 041 -wake_lock_in=1001:"RILJ0"
+         +47m36s655ms (2) 041 +wake_lock_in=1001:"RILJ0"
+         +47m36s678ms (2) 041 -wake_lock_in=1001:"RILJ0"
+         +47m36s691ms (2) 041 -wake_lock_in=u0a14:"NlpWakeLock"
+         +47m36s693ms (2) 041 -wifi_full_lock +wake_lock_in=u0a14:"GCoreFlp"
+         +47m36s695ms (2) 041 -wake_lock_in=u0a14:"GCoreFlp"
+         +47m39s344ms (2) 041 volt=3951
+         +47m44s219ms (2) 041 +wake_lock_in=1000:"TimaService"
+         +47m49s308ms (2) 041 -wake_lock_in=1000:"TimaService"
+         +47m49s438ms (2) 041 volt=3973
+         +48m32s693ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +48m32s824ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +48m36s670ms (2) 041 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +48m36s699ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +48m36s699ms (2) 041 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +48m36s704ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +48m36s704ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +48m36s717ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +49m32s694ms (2) 041 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +49m32s823ms (2) 041 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +49m36s782ms (2) 041 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +49m36s816ms (2) 041 +wake_lock_in=1001:"*alarm*"
+         +49m36s816ms (2) 041 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +49m36s827ms (2) 041 +wake_lock_in=u0a14:"*alarm*"
+         +49m36s827ms (2) 041 -wake_lock_in=1001:"*alarm*"
+         +49m36s843ms (2) 041 -wake_lock_in=u0a14:"*alarm*"
+         +50m30s945ms (2) 040
+         +50m32s695ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +50m32s804ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +50m36s901ms (2) 040 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +50m36s917ms (2) 040 +wake_lock_in=1001:"*alarm*"
+         +50m36s917ms (2) 040 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +50m36s920ms (2) 040 +wake_lock_in=u0a14:"*alarm*"
+         +50m36s920ms (2) 040 -wake_lock_in=1001:"*alarm*"
+         +50m36s935ms (2) 040 -wake_lock_in=u0a14:"*alarm*"
+         +51m32s694ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +51m32s826ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +51m36s998ms (2) 040 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +51m37s033ms (2) 040 +wake_lock_in=1001:"*alarm*"
+         +51m37s033ms (2) 040 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +51m37s046ms (2) 040 +wake_lock_in=u0a14:"*alarm*"
+         +51m37s046ms (2) 040 -wake_lock_in=1001:"*alarm*"
+         +51m37s059ms (2) 040 -wake_lock_in=u0a14:"*alarm*"
+         +52m32s694ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +52m32s813ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +52m37s122ms (2) 040 +wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +52m37s135ms (2) 040 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+         +52m37s156ms (2) 040 -wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+         +52m37s156ms (2) 040 +wake_lock_in=u0a14:"*alarm*"
+         +52m37s178ms (2) 040 +wake_lock_in=u0a204:"*alarm*"
+         +52m37s178ms (2) 040 -wake_lock_in=u0a14:"*alarm*"
+         +52m37s200ms (2) 040 +wake_lock_in=1001:"*alarm*"
+         +52m37s200ms (2) 040 -wake_lock_in=u0a204:"*alarm*"
+         +52m37s204ms (2) 040 -wake_lock_in=1001:"*alarm*"
+         +52m37s218ms (2) 040 +wake_lock_in=1001:"RILJ0"
+         +52m37s219ms (2) 040 -wake_lock_in=1001:"RILJ0"
+         +52m37s221ms (2) 040 +wake_lock_in=1001:"RILJ0"
+         +52m37s246ms (2) 040 -wake_lock_in=1001:"RILJ0"
+         +52m37s262ms (2) 040 -wake_lock_in=u0a14:"NlpWakeLock"
+         +52m37s263ms (2) 040 -wifi_full_lock +wake_lock_in=u0a14:"GCoreFlp"
+         +52m37s268ms (2) 040 -wake_lock_in=u0a14:"GCoreFlp"
+         +52m44s221ms (2) 040 +wake_lock_in=1000:"TimaService"
+         +52m46s861ms (2) 040 -wake_lock_in=1000:"TimaService"
+         +53m32s692ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +53m32s794ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +53m37s241ms (2) 040 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +53m37s274ms (2) 040 +wake_lock_in=1001:"*alarm*"
+         +53m37s274ms (2) 040 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +53m37s286ms (2) 040 +wake_lock_in=u0a14:"*alarm*"
+         +53m37s286ms (2) 040 -wake_lock_in=1001:"*alarm*"
+         +53m37s302ms (2) 040 -wake_lock_in=u0a14:"*alarm*"
+         +53m57s126ms (2) 040 +wake_lock_in=1000:"*alarm*:android.net.ConnectivityService.action.PKT_CNT_SAMPLE_INTERVAL_ELAPSED"
+         +53m57s154ms (2) 040 +wake_lock_in=u0a39:"*alarm*"
+         +53m57s154ms (2) 040 -wake_lock_in=1000:"*alarm*:android.net.ConnectivityService.action.PKT_CNT_SAMPLE_INTERVAL_ELAPSED"
+         +53m57s178ms (2) 040 +wake_lock_in=1000:"*alarm*"
+         +53m57s178ms (2) 040 -wake_lock_in=u0a39:"*alarm*"
+         +53m57s180ms (2) 040 +wake_lock_in=1000:"NetworkStats"
+         +53m57s197ms (2) 040 -wake_lock_in=1000:"NetworkStats"
+         +53m57s200ms (2) 040 +wake_lock_in=u0a166:"*alarm*"
+         +53m57s200ms (2) 040 -wake_lock_in=1000:"*alarm*"
+         +53m57s205ms (2) 040 +wake_lock_in=u0a204:"*alarm*"
+         +53m57s205ms (2) 040 -wake_lock_in=u0a166:"*alarm*"
+         +53m57s222ms (2) 040 -wake_lock_in=u0a204:"*alarm*"
+         +54m32s694ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +54m32s809ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +54m57s124ms (2) 040 +wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+         +54m57s132ms (2) 040 +wake_lock_in=u0a14:"*alarm*"
+         +54m57s132ms (2) 040 -wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+         +54m57s157ms (2) 040 +wake_lock_in=u0a204:"*alarm*"
+         +54m57s157ms (2) 040 -wake_lock_in=u0a14:"*alarm*"
+         +54m57s174ms (2) 040 -wake_lock_in=u0a204:"*alarm*"
+         +55m32s694ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +55m32s801ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +55m57s222ms (2) 040 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +55m57s245ms (2) 040 +wake_lock_in=1001:"*alarm*"
+         +55m57s245ms (2) 040 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +55m57s249ms (2) 040 +wake_lock_in=u0a14:"*alarm*"
+         +55m57s249ms (2) 040 -wake_lock_in=1001:"*alarm*"
+         +55m57s263ms (2) 040 -wake_lock_in=u0a14:"*alarm*"
+         +56m32s695ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +56m32s816ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +57m32s694ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +57m32s810ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +57m37s145ms (2) 040 +wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+         +57m37s170ms (2) 040 -wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+         +57m37s170ms (2) 040 +wake_lock_in=1000:"*alarm*"
+         +57m37s179ms (2) 040 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+         +57m37s199ms (2) 040 -wake_lock_in=1000:"*alarm*"
+         +57m37s199ms (2) 040 +wake_lock_in=u0a204:"*alarm*"
+         +57m37s217ms (2) 040 +wake_lock_in=1001:"*alarm*"
+         +57m37s217ms (2) 040 -wake_lock_in=u0a204:"*alarm*"
+         +57m37s222ms (2) 040 -wake_lock_in=1001:"*alarm*"
+         +57m37s241ms (2) 040 +wake_lock_in=1001:"RILJ0"
+         +57m37s243ms (2) 040 -wake_lock_in=1001:"RILJ0"
+         +57m37s245ms (2) 040 +wake_lock_in=1001:"RILJ0"
+         +57m37s270ms (2) 040 -wake_lock_in=1001:"RILJ0"
+         +57m37s283ms (2) 040 -wake_lock_in=u0a14:"NlpWakeLock"
+         +57m37s285ms (2) 040 +wake_lock_in=u0a14:"GCoreFlp"
+         +57m37s287ms (2) 040 -wifi_full_lock -wake_lock_in=u0a14:"GCoreFlp"
+         +57m44s222ms (2) 040 +wake_lock_in=1000:"TimaService"
+         +57m49s316ms (2) 040 -wake_lock_in=1000:"TimaService"
+         +58m32s693ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +58m32s805ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +58m37s259ms (2) 040 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +58m37s294ms (2) 040 +wake_lock_in=1001:"*alarm*"
+         +58m37s294ms (2) 040 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +58m37s307ms (2) 040 +wake_lock_in=u0a14:"*alarm*"
+         +58m37s307ms (2) 040 -wake_lock_in=1001:"*alarm*"
+         +58m37s322ms (2) 040 -wake_lock_in=u0a14:"*alarm*"
+         +59m05s906ms (2) 040 temp=303
+         +59m32s693ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +59m32s802ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +59m37s392ms (2) 040 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +59m37s426ms (2) 040 +wake_lock_in=1001:"*alarm*"
+         +59m37s426ms (2) 040 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+         +59m37s438ms (2) 040 +wake_lock_in=u0a14:"*alarm*"
+         +59m37s438ms (2) 040 -wake_lock_in=1001:"*alarm*"
+         +59m37s460ms (2) 040 -wake_lock_in=u0a14:"*alarm*"
+       +1h00m32s694ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h00m32s810ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h00m37s502ms (2) 040 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h00m37s514ms (2) 040 +wake_lock_in=1001:"*alarm*"
+       +1h00m37s514ms (2) 040 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h00m37s518ms (2) 040 +wake_lock_in=u0a14:"*alarm*"
+       +1h00m37s518ms (2) 040 -wake_lock_in=1001:"*alarm*"
+       +1h00m37s532ms (2) 040 -wake_lock_in=u0a14:"*alarm*"
+       +1h01m32s694ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h01m32s834ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h01m37s596ms (2) 040 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h01m37s610ms (2) 040 +wake_lock_in=1001:"*alarm*"
+       +1h01m37s610ms (2) 040 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h01m37s615ms (2) 040 +wake_lock_in=u0a14:"*alarm*"
+       +1h01m37s615ms (2) 040 -wake_lock_in=1001:"*alarm*"
+       +1h01m37s629ms (2) 040 -wake_lock_in=u0a14:"*alarm*"
+       +1h02m32s695ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h02m32s818ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h02m37s757ms (2) 040 +wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+       +1h02m37s769ms (2) 040 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+       +1h02m37s787ms (2) 040 -wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+       +1h02m37s787ms (2) 040 +wake_lock_in=u0a14:"*alarm*"
+       +1h02m37s813ms (2) 040 +wake_lock_in=u0a204:"*alarm*"
+       +1h02m37s813ms (2) 040 -wake_lock_in=u0a14:"*alarm*"
+       +1h02m37s826ms (2) 040 +wake_lock_in=1001:"*alarm*"
+       +1h02m37s826ms (2) 040 -wake_lock_in=u0a204:"*alarm*"
+       +1h02m37s829ms (2) 040 -wake_lock_in=1001:"*alarm*"
+       +1h02m37s849ms (2) 040 +wake_lock_in=1001:"RILJ0"
+       +1h02m37s851ms (2) 040 -wake_lock_in=1001:"RILJ0"
+       +1h02m37s853ms (2) 040 +wake_lock_in=1001:"RILJ0"
+       +1h02m37s878ms (2) 040 -wake_lock_in=1001:"RILJ0"
+       +1h02m37s903ms (2) 040 -wake_lock_in=u0a14:"NlpWakeLock"
+       +1h02m37s905ms (2) 040 -wifi_full_lock +wake_lock_in=u0a14:"GCoreFlp"
+       +1h02m37s911ms (2) 040 -wake_lock_in=u0a14:"GCoreFlp"
+       +1h02m44s222ms (2) 040 +wake_lock_in=1000:"TimaService"
+       +1h02m46s867ms (2) 040 -wake_lock_in=1000:"TimaService"
+       +1h03m32s695ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h03m32s802ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h03m37s877ms (2) 040 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h03m37s910ms (2) 040 +wake_lock_in=1001:"*alarm*"
+       +1h03m37s910ms (2) 040 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h03m37s914ms (2) 040 +wake_lock_in=u0a14:"*alarm*"
+       +1h03m37s914ms (2) 040 -wake_lock_in=1001:"*alarm*"
+       +1h03m37s927ms (2) 040 -wake_lock_in=u0a14:"*alarm*"
+       +1h04m31s068ms (2) 040 +wake_lock_in=1000:"*walarm*:com.samsung.framework.alarms.action.registerrefresh"
+       +1h04m31s080ms (2) 040 +wake_lock_in=1000:"WakelockManagertimeout"
+       +1h04m31s094ms (2) 040 -wake_lock_in=1000:"*walarm*:com.samsung.framework.alarms.action.registerrefresh"
+       +1h04m31s110ms (2) 040 +wake_lock_in=1000:"*walarm*:com.samsung.framework.alarms.action.registerrefresh"
+       +1h04m31s124ms (2) 040 -wake_lock_in=1000:"*walarm*:com.samsung.framework.alarms.action.registerrefresh"
+       +1h04m31s428ms (2) 040 +wake_lock_in=1001:"RILJ0"
+       +1h04m31s591ms (2) 040 -wake_lock_in=1001:"RILJ0"
+       +1h04m32s708ms (2) 040 +wake_lock_in=u0a14:"*walarm*:com.google.android.intent.action.MCS_HEARTBEAT"
+       +1h04m32s712ms (2) 040 +wake_lock_in=u0a14:"GCM_HB_ALARM"
+       +1h04m32s719ms (2) 040 -wake_lock_in=u0a14:"GCM_HB_ALARM"
+       +1h04m32s721ms (2) 040 +wake_lock_in=u0a14:"*net_scheduler*"
+       +1h04m32s721ms (2) 040 +wake_lock_in=u0a166:"*alarm*"
+       +1h04m32s721ms (2) 040 -wake_lock_in=u0a14:"*walarm*:com.google.android.intent.action.MCS_HEARTBEAT"
+       +1h04m32s732ms (2) 040 +wake_lock_in=u0a204:"*alarm*"
+       +1h04m32s732ms (2) 040 -wake_lock_in=u0a166:"*alarm*"
+       +1h04m32s755ms (2) 040 +wake_lock_in=1000:"*alarm*"
+       +1h04m32s755ms (2) 040 -wake_lock_in=u0a204:"*alarm*"
+       +1h04m32s821ms (2) 040 -wake_lock_in=1000:"*alarm*"
+       +1h04m32s845ms (2) 040 -wake_lock_in=u0a14:"*net_scheduler*"
+       +1h04m32s949ms (2) 040 +wake_lock_in=u0a14:"GCM_CONN"
+       +1h04m32s958ms (2) 040 -wake_lock_in=u0a14:"GCM_CONN"
+       +1h04m33s498ms (2) 040 +wake_lock_in=u0a14:"*net_scheduler*"
+       +1h04m33s523ms (2) 040 -wake_lock_in=u0a14:"*net_scheduler*"
+       +1h04m33s525ms (2) 040 +wake_lock_in=u0a14:"*net_scheduler*"
+       +1h04m33s544ms (2) 040 -wake_lock_in=u0a14:"*net_scheduler*"
+       +1h04m33s737ms (2) 040 -wake_lock_in=1000:"WakelockManagertimeout"
+       +1h04m35s183ms (2) 040 +wake_lock_in=u0a14:"*net_scheduler*"
+       +1h04m35s215ms (2) 040 -wake_lock_in=u0a14:"*net_scheduler*"
+       +1h04m35s217ms (2) 040 +wake_lock_in=u0a14:"*net_scheduler*"
+       +1h04m35s234ms (2) 040 -wake_lock_in=u0a14:"*net_scheduler*"
+       +1h04m37s929ms (2) 040 +wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+       +1h04m37s936ms (2) 040 -wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+       +1h04m37s989ms (2) 040 +wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+       +1h04m38s019ms (2) 040 -wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+       +1h04m39s095ms (2) 040 volt=3951
+       +1h04m48s806ms (2) 040 +wake_lock_in=1000:"*walarm*:com.samsung.framework.alarms.action.registerrefresh"
+       +1h04m48s810ms (2) 040 +wake_lock_in=1000:"WakelockManagertimeout"
+       +1h04m48s813ms (2) 040 -wake_lock_in=1000:"*walarm*:com.samsung.framework.alarms.action.registerrefresh"
+       +1h04m49s192ms (3) 040 volt=3978 -wake_lock_in=1000:"WakelockManagertimeout"
+       +1h05m32s694ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h05m32s803ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h05m38s084ms (2) 040 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h05m38s105ms (2) 040 +wake_lock_in=1001:"*alarm*"
+       +1h05m38s105ms (2) 040 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h05m38s109ms (2) 040 +wake_lock_in=u0a14:"*alarm*"
+       +1h05m38s109ms (2) 040 -wake_lock_in=1001:"*alarm*"
+       +1h05m38s125ms (2) 040 -wake_lock_in=u0a14:"*alarm*"
+       +1h05m42s579ms (2) 040 +wake_lock_in=u0a80:"*walarm*:com.skt.aom.intent.ACTION_TIMER"
+       +1h05m42s589ms (2) 040 +wake_lock_in=u0a80:"SMSReceive"
+       +1h05m42s591ms (2) 040 -wake_lock_in=u0a80:"*walarm*:com.skt.aom.intent.ACTION_TIMER"
+       +1h05m43s163ms (2) 040 +wake_lock_in=u0a39:"b"
+       +1h05m43s163ms (2) 040 -wake_lock_in=u0a39:"b"
+       +1h05m43s276ms (2) 040 +wake_lock_in=u0a39:"b"
+       +1h05m43s277ms (2) 040 -wake_lock_in=u0a39:"b"
+       +1h05m44s591ms (2) 040 -wake_lock_in=u0a80:"SMSReceive"
+       +1h05m49s784ms (2) 040 volt=3949
+       +1h05m57s177ms (2) 040 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h05m57s200ms (2) 040 +wake_lock_in=1000:"*alarm*"
+       +1h05m57s200ms (2) 040 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h05m57s210ms (2) 040 +wake_lock_in=u0a39:"*alarm*"
+       +1h05m57s210ms (2) 040 -wake_lock_in=1000:"*alarm*"
+       +1h05m57s228ms (2) 040 -wake_lock_in=u0a39:"*alarm*"
+       +1h05m59s878ms (2) 040 volt=3973
+       +1h06m32s695ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h06m32s787ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h06m45s220ms (2) 040 +wake_lock_in=u0a225:"*walarm*:com.skp.pushplanet.PushEndpoint.PING"
+       +1h06m45s224ms (2) 040 -wake_lock_in=u0a225:"*walarm*:com.skp.pushplanet.PushEndpoint.PING"
+       +1h06m45s347ms (2) 040 +wake_lock_in=u0a225:"PushTransactionManager"
+       +1h06m45s863ms (2) 040 -wake_lock_in=u0a225:"PushTransactionManager"
+       +1h06m57s124ms (2) 040 +wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+       +1h06m57s131ms (2) 040 +wake_lock_in=u0a14:"*alarm*"
+       +1h06m57s131ms (2) 040 -wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+       +1h06m57s152ms (2) 040 +wake_lock_in=u0a204:"*alarm*"
+       +1h06m57s152ms (2) 040 -wake_lock_in=u0a14:"*alarm*"
+       +1h06m57s172ms (2) 040 -wake_lock_in=u0a204:"*alarm*"
+       +1h07m32s693ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h07m32s824ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h07m44s222ms (2) 040 +wake_lock_in=1000:"TimaService"
+       +1h07m49s301ms (2) 040 -wake_lock_in=1000:"TimaService"
+       +1h07m57s218ms (2) 040 +wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+       +1h07m57s224ms (2) 040 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+       +1h07m57s233ms (2) 040 -wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+       +1h07m57s233ms (2) 040 +wake_lock_in=u0a14:"*alarm*"
+       +1h07m57s251ms (2) 040 +wake_lock_in=u0a204:"*alarm*"
+       +1h07m57s251ms (2) 040 -wake_lock_in=u0a14:"*alarm*"
+       +1h07m57s280ms (2) 040 +wake_lock_in=1001:"RILJ0"
+       +1h07m57s282ms (2) 040 +wake_lock_in=1001:"*alarm*"
+       +1h07m57s282ms (2) 040 -wake_lock_in=u0a204:"*alarm*"
+       +1h07m57s284ms (2) 040 -wake_lock_in=1001:"RILJ0"
+       +1h07m57s286ms (2) 040 -wake_lock_in=1001:"*alarm*"
+       +1h07m57s293ms (2) 040 +wake_lock_in=1001:"RILJ0"
+       +1h07m57s320ms (2) 040 -wake_lock_in=1001:"RILJ0"
+       +1h07m57s339ms (2) 040 -wake_lock_in=u0a14:"NlpWakeLock"
+       +1h07m57s341ms (2) 040 +wake_lock_in=u0a14:"GCoreFlp"
+       +1h07m57s344ms (2) 040 -wifi_full_lock -wake_lock_in=u0a14:"GCoreFlp"
+       +1h08m32s695ms (2) 040 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h08m32s785ms (2) 040 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h08m51s495ms (2) 039
+       +1h08m57s322ms (2) 039 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h08m57s357ms (2) 039 +wake_lock_in=1001:"*alarm*"
+       +1h08m57s357ms (2) 039 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h08m57s369ms (2) 039 +wake_lock_in=u0a14:"*alarm*"
+       +1h08m57s369ms (2) 039 -wake_lock_in=1001:"*alarm*"
+       +1h08m57s397ms (2) 039 -wake_lock_in=u0a14:"*alarm*"
+       +1h09m32s695ms (2) 039 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h09m32s807ms (2) 039 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h09m57s460ms (2) 039 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h09m57s487ms (2) 039 +wake_lock_in=1001:"*alarm*"
+       +1h09m57s487ms (2) 039 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h09m57s491ms (2) 039 +wake_lock_in=u0a14:"*alarm*"
+       +1h09m57s491ms (2) 039 -wake_lock_in=1001:"*alarm*"
+       +1h09m57s500ms (2) 039 -wake_lock_in=u0a14:"*alarm*"
+       +1h10m32s694ms (2) 039 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h10m32s828ms (2) 039 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h10m57s550ms (2) 039 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h10m57s582ms (2) 039 +wake_lock_in=1001:"*alarm*"
+       +1h10m57s582ms (2) 039 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h10m57s588ms (2) 039 +wake_lock_in=u0a14:"*alarm*"
+       +1h10m57s588ms (2) 039 -wake_lock_in=1001:"*alarm*"
+       +1h10m57s600ms (2) 039 -wake_lock_in=u0a14:"*alarm*"
+       +1h11m32s694ms (2) 039 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h11m32s820ms (2) 039 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h11m32s946ms (2) 039 volt=3948
+       +1h11m53s148ms (2) 039 volt=3979
+       +1h11m57s665ms (2) 039 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h11m57s703ms (2) 039 +wake_lock_in=1001:"*alarm*"
+       +1h11m57s703ms (2) 039 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h11m57s706ms (2) 039 +wake_lock_in=u0a14:"*alarm*"
+       +1h11m57s706ms (2) 039 -wake_lock_in=1001:"*alarm*"
+       +1h11m57s720ms (2) 039 -wake_lock_in=u0a14:"*alarm*"
+       +1h12m32s693ms (2) 039 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h12m32s786ms (2) 039 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h12m44s223ms (2) 039 +wake_lock_in=1000:"TimaService"
+       +1h12m46s867ms (2) 039 -wake_lock_in=1000:"TimaService"
+       +1h12m57s769ms (2) 039 +wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+       +1h12m57s784ms (2) 039 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+       +1h12m57s793ms (2) 039 -wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+       +1h12m57s793ms (2) 039 +wake_lock_in=u0a14:"*alarm*"
+       +1h12m57s812ms (2) 039 +wake_lock_in=u0a204:"*alarm*"
+       +1h12m57s812ms (2) 039 -wake_lock_in=u0a14:"*alarm*"
+       +1h12m57s834ms (2) 039 +wake_lock_in=1001:"*alarm*"
+       +1h12m57s834ms (2) 039 -wake_lock_in=u0a204:"*alarm*"
+       +1h12m57s840ms (2) 039 -wake_lock_in=1001:"*alarm*"
+       +1h12m57s848ms (2) 039 +wake_lock_in=1001:"RILJ0"
+       +1h12m57s850ms (2) 039 -wake_lock_in=1001:"RILJ0"
+       +1h12m57s852ms (2) 039 +wake_lock_in=1001:"RILJ0"
+       +1h12m57s877ms (2) 039 -wake_lock_in=1001:"RILJ0"
+       +1h12m57s893ms (2) 039 -wake_lock_in=u0a14:"NlpWakeLock"
+       +1h12m57s894ms (2) 039 +wake_lock_in=u0a14:"GCoreFlp"
+       +1h12m57s897ms (2) 039 -wifi_full_lock -wake_lock_in=u0a14:"GCoreFlp"
+       +1h13m32s693ms (2) 039 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h13m32s799ms (2) 039 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h13m57s874ms (2) 039 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h13m57s910ms (2) 039 +wake_lock_in=1001:"*alarm*"
+       +1h13m57s910ms (2) 039 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h13m57s923ms (2) 039 +wake_lock_in=u0a14:"*alarm*"
+       +1h13m57s923ms (2) 039 -wake_lock_in=1001:"*alarm*"
+       +1h13m57s943ms (2) 039 -wake_lock_in=u0a14:"*alarm*"
+       +1h14m32s693ms (2) 039 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h14m32s780ms (2) 039 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h14m58s075ms (2) 039 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h14m58s110ms (2) 039 +wake_lock_in=1001:"*alarm*"
+       +1h14m58s110ms (2) 039 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h14m58s113ms (2) 039 +wake_lock_in=u0a14:"*alarm*"
+       +1h14m58s113ms (2) 039 -wake_lock_in=1001:"*alarm*"
+       +1h14m58s128ms (2) 039 -wake_lock_in=u0a14:"*alarm*"
+       +1h15m32s694ms (2) 039 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h15m32s808ms (2) 039 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h15m35s234ms (2) 039 volt=3956
+       +1h15m58s173ms (2) 039 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h15m58s200ms (2) 039 +wake_lock_in=1001:"*alarm*"
+       +1h15m58s200ms (2) 039 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h15m58s205ms (2) 039 +wake_lock_in=u0a14:"*alarm*"
+       +1h15m58s205ms (2) 039 -wake_lock_in=1001:"*alarm*"
+       +1h15m58s219ms (2) 039 -wake_lock_in=u0a14:"*alarm*"
+       +1h16m32s693ms (2) 039 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h16m32s807ms (2) 039 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h16m35s804ms (2) 039 volt=3977
+       +1h16m58s273ms (2) 039 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h16m58s305ms (2) 039 +wake_lock_in=1001:"*alarm*"
+       +1h16m58s305ms (2) 039 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h16m58s316ms (2) 039 +wake_lock_in=u0a14:"*alarm*"
+       +1h16m58s316ms (2) 039 -wake_lock_in=1001:"*alarm*"
+       +1h16m58s332ms (2) 039 -wake_lock_in=u0a14:"*alarm*"
+       +1h17m32s694ms (2) 039 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h17m32s830ms (2) 039 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h17m44s223ms (2) 039 +wake_lock_in=1000:"TimaService"
+       +1h17m49s350ms (2) 039 -wake_lock_in=1000:"TimaService"
+       +1h17m58s395ms (2) 039 +wake_lock_in=u0a14:"*walarm*:com.google.android.gms/.checkin.EventLogService$Receiver"
+       +1h17m58s420ms (2) 039 +wake_lock_in=u0a14:"Event Log Handoff"
+       +1h17m58s426ms (2) 039 -wake_lock_in=u0a14:"*walarm*:com.google.android.gms/.checkin.EventLogService$Receiver"
+       +1h17m58s427ms (2) 039 +wake_lock_in=1000:"*alarm*"
+       +1h17m58s431ms (2) 039 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+       +1h17m58s438ms (2) 039 -wake_lock_in=1000:"*alarm*"
+       +1h17m58s438ms (2) 039 +wake_lock_in=u0a14:"*alarm*"
+       +1h17m58s456ms (2) 039 +wake_lock_in=u0a166:"*alarm*"
+       +1h17m58s456ms (2) 039 -wake_lock_in=u0a14:"*alarm*"
+       +1h17m58s473ms (2) 039 +wake_lock_in=u0a13:"*alarm*"
+       +1h17m58s473ms (2) 039 -wake_lock_in=u0a166:"*alarm*"
+       +1h17m58s502ms (2) 039 +proc=u0a13:"com.sec.android.app.samsungapps"
+       +1h17m58s510ms (2) 039 +wake_lock_in=1001:"RILJ0"
+       +1h17m58s515ms (2) 039 -wake_lock_in=1001:"RILJ0"
+       +1h17m58s520ms (2) 039 +wake_lock_in=1001:"RILJ0"
+       +1h17m58s527ms (2) 039 +wake_lock_in=u0a14:"Event Log Service"
+       +1h17m58s527ms (2) 039 -wake_lock_in=u0a14:"Event Log Handoff"
+       +1h17m58s556ms (2) 039 -wake_lock_in=1001:"RILJ0"
+       +1h17m58s597ms (2) 039 -wake_lock_in=u0a14:"NlpWakeLock"
+       +1h17m58s601ms (2) 039 -wifi_full_lock +wake_lock_in=u0a14:"GCoreFlp"
+       +1h17m58s605ms (2) 039 -wake_lock_in=u0a14:"GCoreFlp"
+       +1h17m58s656ms (2) 039 -wake_lock_in=u0a14:"Event Log Service"
+       +1h17m58s667ms (2) 039 +wake_lock_in=u0a204:"*alarm*"
+       +1h17m58s667ms (2) 039 -wake_lock_in=u0a13:"*alarm*"
+       +1h17m58s674ms (2) 039 +wake_lock_in=1000:"*alarm*"
+       +1h17m58s674ms (2) 039 -wake_lock_in=u0a204:"*alarm*"
+       +1h17m58s683ms (2) 039 +wake_lock_in=u0a39:"*alarm*"
+       +1h17m58s683ms (2) 039 -wake_lock_in=1000:"*alarm*"
+       +1h17m58s702ms (2) 039 +wake_lock_in=1001:"*alarm*"
+       +1h17m58s702ms (2) 039 -wake_lock_in=u0a39:"*alarm*"
+       +1h17m58s705ms (2) 039 -wake_lock_in=1001:"*alarm*"
+       +1h18m01s558ms (2) 039 -proc=u0a66:"com.skt.skaf.Z00000TAPI"
+       +1h18m01s912ms (2) 039 +wake_lock_in=1000:"*walarm*:android.content.syncmanager.SYNC_ALARM"
+       +1h18m01s914ms (2) 039 +wake_lock_in=1000:"SyncManagerHandleSyncAlarm"
+       +1h18m01s917ms (2) 039 +wake_lock_in=1000:"SyncLoopWakeLock"
+       +1h18m01s925ms (2) 039 -wake_lock_in=1000:"*walarm*:android.content.syncmanager.SYNC_ALARM"
+       +1h18m01s927ms (2) 039 -wake_lock_in=1000:"SyncManagerHandleSyncAlarm"
+       +1h18m01s935ms (2) 039 -wake_lock_in=1000:"SyncLoopWakeLock"
+       +1h18m32s693ms (2) 039 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h18m32s802ms (2) 039 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h19m32s694ms (2) 039 +wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+       +1h19m32s715ms (2) 039 -wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+       +1h19m32s715ms (2) 039 +wake_lock_in=1000:"*alarm*"
+       +1h19m32s728ms (2) 039 -wake_lock_in=1000:"*alarm*"
+       +1h19m32s728ms (2) 039 +wake_lock_in=u0a204:"*alarm*"
+       +1h19m32s743ms (2) 039 +wake_lock_in=1001:"*alarm*"
+       +1h19m32s743ms (2) 039 -wake_lock_in=u0a204:"*alarm*"
+       +1h19m32s755ms (2) 039 +wake_lock_in=1000:"*alarm*"
+       +1h19m32s755ms (2) 039 -wake_lock_in=1001:"*alarm*"
+       +1h19m32s824ms (2) 039 -wake_lock_in=1000:"*alarm*"
+       +1h20m32s693ms (2) 039 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h20m32s797ms (2) 039 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h20m32s797ms (2) 039 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h20m32s800ms (2) 039 +wake_lock_in=1001:"*alarm*"
+       +1h20m32s800ms (2) 039 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h20m32s802ms (2) 039 +wake_lock_in=u0a14:"*alarm*"
+       +1h20m32s802ms (2) 039 -wake_lock_in=1001:"*alarm*"
+       +1h20m32s811ms (2) 039 -wake_lock_in=u0a14:"*alarm*"
+       +1h21m32s695ms (2) 039 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h21m32s796ms (2) 039 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h21m32s852ms (2) 039 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h21m32s877ms (2) 039 +wake_lock_in=1001:"*alarm*"
+       +1h21m32s877ms (2) 039 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h21m32s881ms (2) 039 +wake_lock_in=u0a14:"*alarm*"
+       +1h21m32s881ms (2) 039 -wake_lock_in=1001:"*alarm*"
+       +1h21m32s893ms (2) 039 -wake_lock_in=u0a14:"*alarm*"
+       +1h22m32s695ms (2) 039 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h22m32s806ms (2) 039 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h22m32s945ms (2) 039 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h22m32s973ms (2) 039 +wake_lock_in=1001:"*alarm*"
+       +1h22m32s973ms (2) 039 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h22m32s982ms (2) 039 +wake_lock_in=u0a14:"*alarm*"
+       +1h22m32s982ms (2) 039 -wake_lock_in=1001:"*alarm*"
+       +1h22m33s004ms (2) 039 -wake_lock_in=u0a14:"*alarm*"
+       +1h22m44s223ms (2) 039 +wake_lock_in=1000:"TimaService"
+       +1h22m46s867ms (2) 039 -wake_lock_in=1000:"TimaService"
+       +1h23m32s693ms (2) 039 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h23m32s847ms (2) 039 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h23m33s079ms (2) 039 +wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+       +1h23m33s086ms (2) 039 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+       +1h23m33s093ms (2) 039 -wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+       +1h23m33s093ms (2) 039 +wake_lock_in=u0a14:"*alarm*"
+       +1h23m33s104ms (2) 039 +wake_lock_in=u0a204:"*alarm*"
+       +1h23m33s104ms (2) 039 -wake_lock_in=u0a14:"*alarm*"
+       +1h23m33s124ms (2) 039 +wake_lock_in=1001:"*alarm*"
+       +1h23m33s124ms (2) 039 -wake_lock_in=u0a204:"*alarm*"
+       +1h23m33s128ms (2) 039 -wake_lock_in=1001:"*alarm*"
+       +1h23m33s138ms (2) 039 +wake_lock_in=1001:"RILJ0"
+       +1h23m33s139ms (2) 039 -wake_lock_in=1001:"RILJ0"
+       +1h23m33s142ms (2) 039 +wake_lock_in=1001:"RILJ0"
+       +1h23m33s166ms (2) 039 -wake_lock_in=1001:"RILJ0"
+       +1h23m33s185ms (2) 039 -wake_lock_in=u0a14:"NlpWakeLock"
+       +1h23m33s187ms (2) 039 -wifi_full_lock +wake_lock_in=u0a14:"GCoreFlp"
+       +1h23m33s190ms (2) 039 -wake_lock_in=u0a14:"GCoreFlp"
+       +1h24m32s692ms (2) 039 +wake_lock_in=1000:"*alarm*:com.android.server.action.NETWORK_STATS_POLL"
+       +1h24m32s697ms (2) 039 +wake_lock_in=1000:"NetworkStats"
+       +1h24m32s725ms (2) 039 -wake_lock_in=1000:"NetworkStats"
+       +1h24m32s729ms (2) 039 +wake_lock_in=u0a166:"*alarm*"
+       +1h24m32s729ms (2) 039 -wake_lock_in=1000:"*alarm*:com.android.server.action.NETWORK_STATS_POLL"
+       +1h24m32s749ms (2) 039 +wake_lock_in=u0a204:"*alarm*"
+       +1h24m32s749ms (2) 039 -wake_lock_in=u0a166:"*alarm*"
+       +1h24m32s767ms (2) 039 +wake_lock_in=u0a14:"*alarm*"
+       +1h24m32s767ms (2) 039 -wake_lock_in=u0a204:"*alarm*"
+       +1h24m32s779ms (2) 039 +wake_lock_in=1000:"*alarm*"
+       +1h24m32s779ms (2) 039 -wake_lock_in=u0a14:"*alarm*"
+       +1h24m32s830ms (2) 039 -wake_lock_in=1000:"*alarm*"
+       +1h24m50s493ms (2) 038
+       +1h24m57s124ms (2) 038 +wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+       +1h24m57s133ms (2) 038 +wake_lock_in=u0a14:"*alarm*"
+       +1h24m57s133ms (2) 038 -wake_lock_in=1001:"*alarm*:com.android.internal.telephony.data-stall"
+       +1h24m57s155ms (2) 038 +wake_lock_in=u0a204:"*alarm*"
+       +1h24m57s155ms (2) 038 -wake_lock_in=u0a14:"*alarm*"
+       +1h24m57s176ms (2) 038 -wake_lock_in=u0a204:"*alarm*"
+       +1h25m32s694ms (2) 038 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h25m32s785ms (2) 038 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h25m57s224ms (2) 038 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h25m57s249ms (2) 038 +wake_lock_in=1001:"*alarm*"
+       +1h25m57s249ms (2) 038 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h25m57s253ms (2) 038 +wake_lock_in=u0a14:"*alarm*"
+       +1h25m57s253ms (2) 038 -wake_lock_in=1001:"*alarm*"
+       +1h25m57s264ms (2) 038 -wake_lock_in=u0a14:"*alarm*"
+       +1h26m32s695ms (2) 038 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h26m32s784ms (2) 038 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h26m57s310ms (2) 038 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h26m57s336ms (2) 038 +wake_lock_in=1001:"*alarm*"
+       +1h26m57s336ms (2) 038 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h26m57s342ms (2) 038 +wake_lock_in=u0a14:"*alarm*"
+       +1h26m57s342ms (2) 038 -wake_lock_in=1001:"*alarm*"
+       +1h26m57s353ms (2) 038 -wake_lock_in=u0a14:"*alarm*"
+       +1h27m32s695ms (2) 038 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h27m32s806ms (2) 038 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h27m44s224ms (2) 038 +wake_lock_in=1000:"TimaService"
+       +1h27m49s308ms (2) 038 -wake_lock_in=1000:"TimaService"
+       +1h28m32s694ms (2) 038 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h28m32s798ms (2) 038 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h28m33s093ms (2) 038 +wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+       +1h28m33s117ms (2) 038 +wake_lock_in=u0a14:"NlpWakeLock"
+       +1h28m33s118ms (2) 038 -wake_lock_in=u0a14:"*alarm*:com.google.android.gms/.lockbox.LockboxAlarmReceiver"
+       +1h28m33s118ms (2) 038 +wifi_full_lock +wake_lock_in=1000:"*alarm*"
+       +1h28m33s131ms (2) 038 -wake_lock_in=1000:"*alarm*"
+       +1h28m33s132ms (2) 038 +wake_lock_in=u0a204:"*alarm*"
+       +1h28m33s145ms (2) 038 +wake_lock_in=1001:"*alarm*"
+       +1h28m33s145ms (2) 038 -wake_lock_in=u0a204:"*alarm*"
+       +1h28m33s150ms (2) 038 -wake_lock_in=1001:"*alarm*"
+       +1h28m33s167ms (2) 038 +wake_lock_in=1001:"RILJ0"
+       +1h28m33s169ms (2) 038 -wake_lock_in=1001:"RILJ0"
+       +1h28m33s171ms (2) 038 +wake_lock_in=1001:"RILJ0"
+       +1h28m33s196ms (2) 038 -wake_lock_in=1001:"RILJ0"
+       +1h28m33s207ms (2) 038 -wake_lock_in=u0a14:"NlpWakeLock"
+       +1h28m33s209ms (2) 038 -wifi_full_lock +wake_lock_in=u0a14:"GCoreFlp"
+       +1h28m33s212ms (2) 038 -wake_lock_in=u0a14:"GCoreFlp"
+       +1h29m32s694ms (2) 038 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h29m32s796ms (2) 038 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h29m33s179ms (2) 038 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h29m33s212ms (2) 038 +wake_lock_in=1001:"*alarm*"
+       +1h29m33s212ms (2) 038 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h29m33s216ms (2) 038 +wake_lock_in=u0a14:"*alarm*"
+       +1h29m33s216ms (2) 038 -wake_lock_in=1001:"*alarm*"
+       +1h29m33s229ms (2) 038 -wake_lock_in=u0a14:"*alarm*"
+       +1h30m32s693ms (2) 038 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h30m32s798ms (2) 038 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h30m33s282ms (2) 038 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h30m33s315ms (2) 038 +wake_lock_in=1001:"*alarm*"
+       +1h30m33s315ms (2) 038 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h30m33s329ms (2) 038 +wake_lock_in=u0a14:"*alarm*"
+       +1h30m33s329ms (2) 038 -wake_lock_in=1001:"*alarm*"
+       +1h30m33s346ms (2) 038 -wake_lock_in=u0a14:"*alarm*"
+       +1h31m32s694ms (2) 038 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h31m32s792ms (2) 038 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h31m33s408ms (2) 038 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h31m33s433ms (2) 038 +wake_lock_in=1001:"*alarm*"
+       +1h31m33s433ms (2) 038 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h31m33s438ms (2) 038 +wake_lock_in=u0a14:"*alarm*"
+       +1h31m33s438ms (2) 038 -wake_lock_in=1001:"*alarm*"
+       +1h31m33s451ms (2) 038 -wake_lock_in=u0a14:"*alarm*"
+       +1h32m32s692ms (2) 038 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h32m32s786ms (2) 038 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h32m33s518ms (2) 038 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h32m33s532ms (2) 038 +wake_lock_in=1001:"*alarm*"
+       +1h32m33s532ms (2) 038 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h32m33s536ms (2) 038 +wake_lock_in=u0a14:"*alarm*"
+       +1h32m33s536ms (2) 038 -wake_lock_in=1001:"*alarm*"
+       +1h32m33s547ms (2) 038 -wake_lock_in=u0a14:"*alarm*"
+       +1h32m44s225ms (2) 038 +wake_lock_in=1000:"TimaService"
+       +1h32m46s883ms (2) 038 -wake_lock_in=1000:"TimaService"
+       +1h33m32s694ms (2) 038 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h33m32s793ms (2) 038 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h33m33s613ms (2) 038 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h33m33s647ms (2) 038 +wake_lock_in=1001:"*alarm*"
+       +1h33m33s647ms (2) 038 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h33m33s658ms (2) 038 +wake_lock_in=u0a14:"*alarm*"
+       +1h33m33s658ms (2) 038 -wake_lock_in=1001:"*alarm*"
+       +1h33m33s676ms (2) 038 -wake_lock_in=u0a14:"*alarm*"
+       +1h33m35s520ms (2) 038 volt=3948
+       +1h33m54s085ms (2) 038 +wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+       +1h33m54s099ms (2) 038 +wifi_full_lock +wake_lock_in=u0a14:"NlpWakeLock"
+       +1h33m54s118ms (2) 038 -wake_lock_in=1000:"*walarm*:ALARM_WAKEUP_LOCATOR"
+       +1h33m54s118ms (2) 038 +wake_lock_in=1000:"*alarm*"
+       +1h33m54s135ms (2) 038 +wake_lock_in=u0a39:"*alarm*"
+       +1h33m54s135ms (2) 038 -wake_lock_in=1000:"*alarm*"
+       +1h33m54s151ms (2) 038 +wake_lock_in=1001:"RILJ0"
+       +1h33m54s154ms (2) 038 -wake_lock_in=1001:"RILJ0"
+       +1h33m54s157ms (2) 038 +wake_lock_in=1001:"RILJ0"
+       +1h33m54s160ms (2) 038 +wake_lock_in=u0a166:"*alarm*"
+       +1h33m54s160ms (2) 038 -wake_lock_in=u0a39:"*alarm*"
+       +1h33m54s167ms (2) 038 -wake_lock_in=u0a166:"*alarm*"
+       +1h33m54s182ms (2) 038 -wake_lock_in=1001:"RILJ0"
+       +1h33m54s197ms (2) 038 -wake_lock_in=u0a14:"NlpWakeLock"
+       +1h33m54s199ms (2) 038 -wifi_full_lock +wake_lock_in=u0a14:"GCoreFlp"
+       +1h33m54s202ms (2) 038 -wake_lock_in=u0a14:"GCoreFlp"
+       +1h33m55s721ms (2) 038 volt=3975
+       +1h34m32s694ms (2) 038 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h34m32s815ms (2) 038 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h34m33s733ms (2) 038 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h34m33s766ms (2) 038 +wake_lock_in=1001:"*alarm*"
+       +1h34m33s766ms (2) 038 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h34m33s783ms (2) 038 +wake_lock_in=u0a14:"*alarm*"
+       +1h34m33s783ms (2) 038 -wake_lock_in=1001:"*alarm*"
+       +1h34m33s794ms (2) 038 -wake_lock_in=u0a14:"*alarm*"
+       +1h35m32s695ms (2) 038 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h35m32s787ms (2) 038 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h35m33s850ms (2) 038 +wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h35m33s878ms (2) 038 +wake_lock_in=1001:"*alarm*"
+       +1h35m33s878ms (2) 038 -wake_lock_in=u0a204:"*alarm*:com.ahnlab.v3mobilestd/com.ahnlab.msecurity2.v3mavmain.V3MAVCommonReceiver"
+       +1h35m33s883ms (2) 038 +wake_lock_in=u0a14:"*alarm*"
+       +1h35m33s883ms (2) 038 -wake_lock_in=1001:"*alarm*"
+       +1h35m33s899ms (2) 038 -wake_lock_in=u0a14:"*alarm*"
+
+Per-PID Stats:
+  PID 3583 wake time: +1m23s231ms
+  PID 4098 wake time: +3s173ms
+  PID 3583 wake time: +612ms
+  PID 4036 wake time: +689ms
+  PID 3583 wake time: +194ms
+  PID 3583 wake time: +1s745ms
+  PID 4290 wake time: +6s273ms
+  PID 4382 wake time: +535ms
+  PID 4708 wake time: +2s257ms
+  PID 3583 wake time: +168ms
+  PID 10900 wake time: +3ms
+  PID 3583 wake time: +42ms
+  PID 4095 wake time: +4s7ms
+  PID 3583 wake time: +183ms
+  PID 3583 wake time: +2s296ms
+  PID 4290 wake time: +2s556ms
+  PID 18020 wake time: +7ms
+  PID 3583 wake time: +4ms
+  PID 15849 wake time: +516ms
+
+Statistics since last charge:
+  System starts: 0, currently on battery: false
+  Time on battery: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Total run time: 1h 35m 38s 862ms realtime, 1h 35m 38s 862ms uptime
+  Start clock time: 2015-10-19-13-15-27
+  Screen on: 0ms (--%) 0x, Interactive: 0ms (--%)
+  Screen brightnesses: (no activity)
+  Mobile total received: 0B, sent: 0B (packets received 0, sent 0)
+  Phone signal levels: (no activity)
+  Signal scanning time: 0ms
+  Radio types: (no activity)
+  Mobile radio active time: 0ms (--%) 0x
+  Wi-Fi total received: 0B, sent: 0B (packets received 0, sent 0)
+  Wifi on: 0ms (--%), Wifi running: 0ms (--%)
+  Wifi states: (no activity)
+  Wifi supplicant states: (no activity)
+  Wifi signal levels: (no activity)
+  Bluetooth on: 0ms (--%)
+  Bluetooth states: (no activity)
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+
+  1000:
+    Wake lock SyncLoopWakeLock realtime
+    Wake lock WakelockManagertimeout realtime
+    Wake lock NetworkStats realtime
+    Wake lock SyncManagerHandleSyncAlarm realtime
+    Wake lock *alarm* realtime
+    Wake lock TimaService realtime
+  1001:
+    Wake lock RILJ0 realtime
+    Wake lock *alarm* realtime
+  1002:
+    (nothing executed)
+  1021:
+    Sensor 0: (not used)
+    Sensor 1: (not used)
+    Sensor 4: (not used)
+    Sensor 12: (not used)
+    Sensor 1937338482: (not used)
+  1027:
+    (nothing executed)
+  u0a1:
+    (nothing executed)
+  u0a3:
+    (nothing executed)
+  u0a4:
+    (nothing executed)
+  u0a5:
+    (nothing executed)
+  u0a6:
+    (nothing executed)
+  u0a8:
+    (nothing executed)
+  u0a9:
+    (nothing executed)
+  u0a10:
+    (nothing executed)
+  u0a12:
+    (nothing executed)
+  u0a13:
+    Wake lock *alarm* realtime
+    Apk com.sec.android.app.samsungapps:
+      (nothing executed)
+  u0a14:
+    Wake lock Event Log Handoff realtime
+    Wake lock Event Log Service realtime
+    Wake lock GCM_HB_ALARM realtime
+    Wake lock GCM_CONN realtime
+    Wake lock *alarm* realtime
+    Wake lock NlpWakeLock realtime
+    Wake lock GCoreFlp realtime
+    Wake lock *net_scheduler* realtime
+    Apk com.google.android.gms:
+      Service com.google.android.gms.usagereporting.service.UsageReportingService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a16:
+    (nothing executed)
+  u0a17:
+    (nothing executed)
+  u0a19:
+    (nothing executed)
+  u0a21:
+    (nothing executed)
+  u0a22:
+    (nothing executed)
+  u0a23:
+    (nothing executed)
+  u0a25:
+    (nothing executed)
+  u0a28:
+    (nothing executed)
+  u0a31:
+    (nothing executed)
+  u0a35:
+    (nothing executed)
+  u0a36:
+    (nothing executed)
+  u0a37:
+    (nothing executed)
+  u0a38:
+    (nothing executed)
+  u0a39:
+    Wake lock b realtime
+    Wake lock *alarm* realtime
+    Apk com.sec.spp.push:
+      (nothing executed)
+  u0a42:
+    (nothing executed)
+  u0a44:
+    (nothing executed)
+  u0a45:
+    (nothing executed)
+  u0a46:
+    (nothing executed)
+  u0a47:
+    (nothing executed)
+  u0a48:
+    (nothing executed)
+  u0a50:
+    (nothing executed)
+  u0a52:
+    (nothing executed)
+  u0a53:
+    (nothing executed)
+  u0a54:
+    (nothing executed)
+  u0a56:
+    (nothing executed)
+  u0a59:
+    (nothing executed)
+  u0a60:
+    (nothing executed)
+  u0a61:
+    (nothing executed)
+  u0a62:
+    (nothing executed)
+  u0a66:
+    (nothing executed)
+  u0a68:
+    (nothing executed)
+  u0a69:
+    (nothing executed)
+  u0a73:
+    (nothing executed)
+  u0a75:
+    (nothing executed)
+  u0a80:
+    Wake lock SMSReceive realtime
+    Wake lock *alarm* realtime
+  u0a81:
+    (nothing executed)
+  u0a83:
+    (nothing executed)
+  u0a86:
+    (nothing executed)
+  u0a87:
+    (nothing executed)
+  u0a90:
+    (nothing executed)
+  u0a93:
+    (nothing executed)
+  u0a99:
+    (nothing executed)
+  u0a103:
+    (nothing executed)
+  u0a104:
+    (nothing executed)
+  u0a107:
+    (nothing executed)
+  u0a110:
+    (nothing executed)
+  u0a111:
+    (nothing executed)
+  u0a112:
+    (nothing executed)
+  u0a113:
+    (nothing executed)
+  u0a114:
+    (nothing executed)
+  u0a115:
+    (nothing executed)
+  u0a117:
+    (nothing executed)
+  u0a118:
+    (nothing executed)
+  u0a120:
+    (nothing executed)
+  u0a123:
+    (nothing executed)
+  u0a124:
+    (nothing executed)
+  u0a125:
+    (nothing executed)
+  u0a126:
+    (nothing executed)
+  u0a129:
+    (nothing executed)
+  u0a130:
+    (nothing executed)
+  u0a131:
+    (nothing executed)
+  u0a133:
+    (nothing executed)
+  u0a134:
+    (nothing executed)
+  u0a136:
+    (nothing executed)
+  u0a137:
+    (nothing executed)
+  u0a139:
+    (nothing executed)
+  u0a143:
+    (nothing executed)
+  u0a148:
+    (nothing executed)
+  u0a153:
+    (nothing executed)
+  u0a155:
+    (nothing executed)
+  u0a156:
+    (nothing executed)
+  u0a161:
+    (nothing executed)
+  u0a163:
+    (nothing executed)
+  u0a166:
+    Wake lock *alarm* realtime
+  u0a169:
+    (nothing executed)
+  u0a170:
+    (nothing executed)
+  u0a172:
+    (nothing executed)
+  u0a173:
+    (nothing executed)
+  u0a174:
+    (nothing executed)
+  u0a177:
+    (nothing executed)
+  u0a180:
+    (nothing executed)
+  u0a182:
+    (nothing executed)
+  u0a185:
+    (nothing executed)
+  u0a186:
+    (nothing executed)
+  u0a187:
+    (nothing executed)
+  u0a189:
+    (nothing executed)
+  u0a191:
+    (nothing executed)
+  u0a194:
+    (nothing executed)
+  u0a195:
+    (nothing executed)
+  u0a198:
+    (nothing executed)
+  u0a199:
+    (nothing executed)
+  u0a201:
+    (nothing executed)
+  u0a204:
+    Wake lock *alarm* realtime
+  u0a209:
+    (nothing executed)
+  u0a211:
+    (nothing executed)
+  u0a212:
+    Wake lock kcn realtime
+    Wake lock *net_scheduler* realtime
+    Apk com.google.android.youtube:
+      Service com.google.android.apps.youtube.app.offline.transfer.OfflineTransferService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a219:
+    (nothing executed)
+  u0a220:
+    (nothing executed)
+  u0a223:
+    (nothing executed)
+  u0a225:
+    Wake lock WindowManager realtime
+    Wake lock PushTransactionManager realtime
+    Wake lock *alarm* realtime
+    Sensor GPS: (not used)
+    Apk com.skt.skaf.l001mtm091:
+      (nothing executed)
+
+Statistics since last unplugged:
+  Time on battery: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Total run time: 1h 35m 38s 869ms realtime, 1h 35m 38s 869ms uptime
+  Start clock time: 2015-10-19-13-15-27
+  Screen on: 0ms (--%) 0x, Interactive: 0ms (--%)
+  Screen brightnesses: (no activity)
+  Mobile total received: 0B, sent: 0B (packets received 0, sent 0)
+  Phone signal levels: (no activity)
+  Signal scanning time: 0ms
+  Radio types: (no activity)
+  Mobile radio active time: 0ms (--%) 0x
+  Wi-Fi total received: 0B, sent: 0B (packets received 0, sent 0)
+  Wifi on: 0ms (--%), Wifi running: 0ms (--%)
+  Wifi states: (no activity)
+  Wifi supplicant states: (no activity)
+  Wifi signal levels: (no activity)
+  Bluetooth on: 0ms (--%)
+  Bluetooth states: (no activity)
+
+  Device is currently plugged into power
+    Last discharge cycle start level: 43
+    Last discharge cycle end level: 43
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+ 
+  1000:
+    Wake lock SyncLoopWakeLock realtime
+    Wake lock WakelockManagertimeout realtime
+    Wake lock NetworkStats realtime
+    Wake lock SyncManagerHandleSyncAlarm realtime
+    Wake lock *alarm* realtime
+    Wake lock TimaService realtime
+  1001:
+    Wake lock RILJ0 realtime
+    Wake lock *alarm* realtime
+  1002:
+    (nothing executed)
+  1021:
+    Sensor 0: (not used)
+    Sensor 1: (not used)
+    Sensor 4: (not used)
+    Sensor 12: (not used)
+    Sensor 1937338482: (not used)
+  1027:
+    (nothing executed)
+  u0a1:
+    (nothing executed)
+  u0a3:
+    (nothing executed)
+  u0a4:
+    (nothing executed)
+  u0a5:
+    (nothing executed)
+  u0a6:
+    (nothing executed)
+  u0a8:
+    (nothing executed)
+  u0a9:
+    (nothing executed)
+  u0a10:
+    (nothing executed)
+  u0a12:
+    (nothing executed)
+  u0a13:
+    Wake lock *alarm* realtime
+    Apk com.sec.android.app.samsungapps:
+      (nothing executed)
+  u0a14:
+    Wake lock Event Log Handoff realtime
+    Wake lock Event Log Service realtime
+    Wake lock GCM_HB_ALARM realtime
+    Wake lock GCM_CONN realtime
+    Wake lock *alarm* realtime
+    Wake lock NlpWakeLock realtime
+    Wake lock GCoreFlp realtime
+    Wake lock *net_scheduler* realtime
+    Apk com.google.android.gms:
+      Service com.google.android.gms.usagereporting.service.UsageReportingService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a16:
+    (nothing executed)
+  u0a17:
+    (nothing executed)
+  u0a19:
+    (nothing executed)
+  u0a21:
+    (nothing executed)
+  u0a22:
+    (nothing executed)
+  u0a23:
+    (nothing executed)
+  u0a25:
+    (nothing executed)
+  u0a28:
+    (nothing executed)
+  u0a31:
+    (nothing executed)
+  u0a35:
+    (nothing executed)
+  u0a36:
+    (nothing executed)
+  u0a37:
+    (nothing executed)
+  u0a38:
+    (nothing executed)
+  u0a39:
+    Wake lock b realtime
+    Wake lock *alarm* realtime
+    Apk com.sec.spp.push:
+      (nothing executed)
+  u0a42:
+    (nothing executed)
+  u0a44:
+    (nothing executed)
+  u0a45:
+    (nothing executed)
+  u0a46:
+    (nothing executed)
+  u0a47:
+    (nothing executed)
+  u0a48:
+    (nothing executed)
+  u0a50:
+    (nothing executed)
+  u0a52:
+    (nothing executed)
+  u0a53:
+    (nothing executed)
+  u0a54:
+    (nothing executed)
+  u0a56:
+    (nothing executed)
+  u0a59:
+    (nothing executed)
+  u0a60:
+    (nothing executed)
+  u0a61:
+    (nothing executed)
+  u0a62:
+    (nothing executed)
+  u0a66:
+    (nothing executed)
+  u0a68:
+    (nothing executed)
+  u0a69:
+    (nothing executed)
+  u0a73:
+    (nothing executed)
+  u0a75:
+    (nothing executed)
+  u0a80:
+    Wake lock SMSReceive realtime
+    Wake lock *alarm* realtime
+  u0a81:
+    (nothing executed)
+  u0a83:
+    (nothing executed)
+  u0a86:
+    (nothing executed)
+  u0a87:
+    (nothing executed)
+  u0a90:
+    (nothing executed)
+  u0a93:
+    (nothing executed)
+  u0a99:
+    (nothing executed)
+  u0a103:
+    (nothing executed)
+  u0a104:
+    (nothing executed)
+  u0a107:
+    (nothing executed)
+  u0a110:
+    (nothing executed)
+  u0a111:
+    (nothing executed)
+  u0a112:
+    (nothing executed)
+  u0a113:
+    (nothing executed)
+  u0a114:
+    (nothing executed)
+  u0a115:
+    (nothing executed)
+  u0a117:
+    (nothing executed)
+  u0a118:
+    (nothing executed)
+  u0a120:
+    (nothing executed)
+  u0a123:
+    (nothing executed)
+  u0a124:
+    (nothing executed)
+  u0a125:
+    (nothing executed)
+  u0a126:
+    (nothing executed)
+  u0a129:
+    (nothing executed)
+  u0a130:
+    (nothing executed)
+  u0a131:
+    (nothing executed)
+  u0a133:
+    (nothing executed)
+  u0a134:
+    (nothing executed)
+  u0a136:
+    (nothing executed)
+  u0a137:
+    (nothing executed)
+  u0a139:
+    (nothing executed)
+  u0a143:
+    (nothing executed)
+  u0a148:
+    (nothing executed)
+  u0a153:
+    (nothing executed)
+  u0a155:
+    (nothing executed)
+  u0a156:
+    (nothing executed)
+  u0a161:
+    (nothing executed)
+  u0a163:
+    (nothing executed)
+  u0a166:
+    Wake lock *alarm* realtime
+  u0a169:
+    (nothing executed)
+  u0a170:
+    (nothing executed)
+  u0a172:
+    (nothing executed)
+  u0a173:
+    (nothing executed)
+  u0a174:
+    (nothing executed)
+  u0a177:
+    (nothing executed)
+  u0a180:
+    (nothing executed)
+  u0a182:
+    (nothing executed)
+  u0a185:
+    (nothing executed)
+  u0a186:
+    (nothing executed)
+  u0a187:
+    (nothing executed)
+  u0a189:
+    (nothing executed)
+  u0a191:
+    (nothing executed)
+  u0a194:
+    (nothing executed)
+  u0a195:
+    (nothing executed)
+  u0a198:
+    (nothing executed)
+  u0a199:
+    (nothing executed)
+  u0a201:
+    (nothing executed)
+  u0a204:
+    Wake lock *alarm* realtime
+  u0a209:
+    (nothing executed)
+  u0a211:
+    (nothing executed)
+  u0a212:
+    Wake lock kcn realtime
+    Wake lock *net_scheduler* realtime
+    Apk com.google.android.youtube:
+      Service com.google.android.apps.youtube.app.offline.transfer.OfflineTransferService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a219:
+    (nothing executed)
+  u0a220:
+    (nothing executed)
+  u0a223:
+    (nothing executed)
+  u0a225:
+    Wake lock WindowManager realtime
+    Wake lock PushTransactionManager realtime
+    Wake lock *alarm* realtime
+    Sensor GPS: (not used)
+    Apk com.skt.skaf.l001mtm091:
+      (nothing executed)
