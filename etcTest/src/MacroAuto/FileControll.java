@@ -8,6 +8,7 @@ import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.FilenameFilter;
 import java.io.IOException;
+import java.nio.channels.FileChannel;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
@@ -58,12 +59,17 @@ public class FileControll implements FilenameFilter {
 			FileInputStream fis = new FileInputStream(inFileName);
 			FileOutputStream fos = new FileOutputStream(outFileName);
 
-			int data = 0;
-			while ((data = fis.read()) != -1) {
-				fos.write(data);
-			}
-			fis.close();
+			FileChannel fcin = fis.getChannel();
+			FileChannel fout = fos.getChannel();
+			
+			long size = fcin.size();
+			fcin.transferTo(0, size, fout);
+			
+			fout.close();
+			fcin.close();
+			
 			fos.close();
+			fis.close();
 
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -84,12 +90,17 @@ public class FileControll implements FilenameFilter {
 			FileInputStream fis = new FileInputStream(inFileName);
 			FileOutputStream fos = new FileOutputStream(outFileName);
 
-			int data = 0;
-			while ((data = fis.read()) != -1) {
-				fos.write(data);
-			}
-			fis.close();
+			FileChannel fcin = fis.getChannel();
+			FileChannel fout = fos.getChannel();
+			
+			long size = fcin.size();
+			fcin.transferTo(0, size, fout);
+			
+			fout.close();
+			fcin.close();
+			
 			fos.close();
+			fis.close();
 
 			// 복사한뒤 원본파일을 삭제함
 			fileDelete(inFileName);
