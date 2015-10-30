@@ -1,0 +1,3 @@
+D:\testfolder\1
+D:\battery
+C:\Users\Administrator\workspace\etcTest\tmp_macro.xlsm
