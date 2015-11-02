@@ -9,6 +9,7 @@ class ExtendThread implements Runnable {
 	String outPathinfo1;
 	static String DIR = System.getProperty("user.dir");
 	static boolean XLSM = false;
+	
 
 	public ExtendThread(String inpath, String outpath) {
 		// TODO Auto-generated constructor stub
@@ -30,6 +31,8 @@ class ExtendThread implements Runnable {
 		try {
 
 			while (!Thread.currentThread().isInterrupted()) {
+			
+			
 				for (int i = 0; i < fc.folderSearch(inFolder).size(); i++) {
 					folderSelect = fc.folderSearch(inFolder).get(i).toString();
 

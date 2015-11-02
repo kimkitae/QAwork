@@ -16,7 +16,6 @@ public class ExcelExecute extends Thread {
 		try {
 
 			Process process = Runtime.getRuntime().exec("rundll32 url.dll, FileProtocolHandler " + dir);
-	
 			process.waitFor();
 
 		} catch (InterruptedException e) {

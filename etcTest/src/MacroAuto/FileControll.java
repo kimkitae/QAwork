@@ -61,13 +61,13 @@ public class FileControll implements FilenameFilter {
 
 			FileChannel fcin = fis.getChannel();
 			FileChannel fout = fos.getChannel();
-			
+
 			long size = fcin.size();
 			fcin.transferTo(0, size, fout);
-			
+
 			fout.close();
 			fcin.close();
-			
+
 			fos.close();
 			fis.close();
 
@@ -78,27 +78,26 @@ public class FileControll implements FilenameFilter {
 	}
 
 	// 파일을 이동하는 메소드
-	public static void fileMove(String inFileName, String outFileName,String ouffolder) {
+	public static void fileMove(String inFileName, String outFileName, String ouffolder) {
 		try {
 			System.out.println(ouffolder);
 			File f = new File(ouffolder);
-			if(!f.exists()){
+			if (!f.exists()) {
 				f.mkdirs();
 			}
-			
-			
+
 			FileInputStream fis = new FileInputStream(inFileName);
 			FileOutputStream fos = new FileOutputStream(outFileName);
 
 			FileChannel fcin = fis.getChannel();
 			FileChannel fout = fos.getChannel();
-			
+
 			long size = fcin.size();
 			fcin.transferTo(0, size, fout);
-			
+
 			fout.close();
 			fcin.close();
-			
+
 			fos.close();
 			fis.close();
 
@@ -170,6 +169,7 @@ public class FileControll implements FilenameFilter {
 		return al;
 
 	}
+
 	public String pathChange(String dir) {
 		ArrayList<String> aa = new ArrayList<String>();
 		String dirs = dir;
@@ -185,6 +185,7 @@ public class FileControll implements FilenameFilter {
 
 		return pathChange;
 	}
+
 	@Override
 	public boolean accept(File dir, String name) {
 		// TODO Auto-generated method stub

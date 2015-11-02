@@ -17,7 +17,6 @@ public class ProcessSearch {
 	   BufferedReader input = new BufferedReader(new InputStreamReader(p.getInputStream()));
 	   while ((line = input.readLine()) != null) {
 	    if (!line.trim().equals("")) {
-	     // keep only the proecess name
 	    
 	      processes.add(line.substring(0, line.indexOf(" ")));
 	     }
