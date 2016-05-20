@@ -135,7 +135,7 @@ public class AppUpgrade extends JFrame implements FilenameFilter {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				// TODO Auto-generated method stub
-				Sumcount = Integer.parseInt(cnt.getText());
+				
 
 				dateClear1(DeviceNum1);
 
@@ -396,7 +396,7 @@ public class AppUpgrade extends JFrame implements FilenameFilter {
 			BufferedReader br = new BufferedReader(new InputStreamReader(process.getInputStream()));
 
 			String sealNum1 = "echo off \n\r";
-			String sealNum2 = "adb -s " + DeviceNum1 + " shell pm clear com.skmc.okcashbag.home_google \n\r";
+			String sealNum2 = "adb -s "+DeviceNum1+" shell pm clear com.skmc.okcashbag.home_google \n\r";
 			String sealNum3 = "pause \n\r";
 
 			OutputStream os = process.getOutputStream();
